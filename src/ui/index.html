@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>أداة تحليل المستندات الذكية</title>
+<style>
+    :root {
+        --bg: #0f172a;
+        --panel: #1e293b;
+        --panel-2: #273449;
+        --border: #334155;
+        --text: #e2e8f0;
+        --muted: #94a3b8;
+        --accent: #38bdf8;
+        --accent-2: #34d399;
+        --danger: #f87171;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px 16px;
+    }
+
+    h1 {
+        font-size: 24px;
+        margin-bottom: 4px;
+    }
+
+    .subtitle {
+        color: var(--muted);
+        margin-bottom: 32px;
+        font-size: 14px;
+    }
+
+    .card {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 24px;
+        width: 100%;
+        max-width: 640px;
+        margin-bottom: 20px;
+    }
+
+    .upload-zone {
+        border: 2px dashed var(--border);
+        border-radius: 10px;
+        padding: 32px;
+        text-align: center;
+        cursor: pointer;
+        transition: border-color 0.2s;
+    }
+
+    .upload-zone:hover {
+        border-color: var(--accent);
+    }
+
+    .upload-zone input {
+        display: none;
+    }
+
+    .upload-hint {
+        color: var(--muted);
+        font-size: 13px;
+        margin-top: 8px;
+    }
+
+    button {
+        background: var(--accent);
+        color: #0f172a;
+        border: none;
+        border-radius: 8px;
+        padding: 10px 20px;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+        margin-top: 16px;
+        width: 100%;
+    }
+
+    button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+
+    #fileName {
+        margin-top: 12px;
+        font-size: 14px;
+        color: var(--accent);
+    }
+
+    .status {
+        text-align: center;
+        color: var(--muted);
+        margin-top: 12px;
+        font-size: 14px;
+    }
+
+    .error {
+        color: var(--danger);
+    }
+
+    .result-row {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 0;
+        border-bottom: 1px solid var(--border);
+        font-size: 14px;
+    }
+
+    .result-row:last-child {
+        border-bottom: none;
+    }
+
+    .result-label {
+        color: var(--muted);
+        min-width: 110px;
+    }
+
+    .result-value {
+        text-align: left;
+        flex: 1;
+        margin-right: 16px;
+        word-break: break-word;
+    }
+
+    .abstract-box {
+        background: var(--panel-2);
+        border-radius: 8px;
+        padding: 14px;
+        margin-top: 8px;
+        font-size: 13px;
+        line-height: 1.7;
+        max-height: 180px;
+        overflow-y: auto;
+    }
+
+    .sections {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 8px;
+    }
+
+    .badge {
+        background: var(--panel-2);
+        border: 1px solid var(--border);
+        border-radius: 20px;
+        padding: 6px 14px;
+        font-size: 12px;
+        color: var(--accent-2);
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    h3 {
+        font-size: 15px;
+        color: var(--accent);
+        margin: 0 0 12px 0;
+    }
+</style>
+</head>
+<body>
+
+    <h1>أداة تحليل المستندات الذكية</h1>
+    <div class="subtitle">Intelligent Document Intelligence Engine</div>
+
+    <div class="card">
+        <div class="upload-zone" id="uploadZone">
+            <div>اضغط هنا لاختيار ملف PDF</div>
+            <div class="upload-hint">أو اسحب الملف وأفلته هنا</div>
+            <div id="fileName"></div>
+            <input type="file" id="fileInput" accept="application/pdf" />
+        </div>
+        <button id="analyzeBtn" disabled>تحليل الملف</button>
+        <div class="status" id="status"></div>
+    </div>
+
+    <div class="card hidden" id="resultCard">
+        <h3>نتائج التحليل</h3>
+        <div id="resultBody"></div>
+    </div>
+
+<script>
+    const uploadZone = document.getElementById("uploadZone");
+    const fileInput = document.getElementById("fileInput");
+    const fileNameEl = document.getElementById("fileName");
+    const analyzeBtn = document.getElementById("analyzeBtn");
+    const statusEl = document.getElementById("status");
+    const resultCard = document.getElementById("resultCard");
+    const resultBody = document.getElementById("resultBody");
+
+    let selectedFile = null;
+
+    uploadZone.addEventListener("click", () => fileInput.click());
+
+    uploadZone.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        uploadZone.style.borderColor = "#38bdf8";
+    });
+
+    uploadZone.addEventListener("dragleave", () => {
+        uploadZone.style.borderColor = "#334155";
+    });
+
+    uploadZone.addEventListener("drop", (e) => {
+        e.preventDefault();
+        uploadZone.style.borderColor = "#334155";
+        if (e.dataTransfer.files.length > 0) {
+            setFile(e.dataTransfer.files[0]);
+        }
+    });
+
+    fileInput.addEventListener("change", () => {
+        if (fileInput.files.length > 0) {
+            setFile(fileInput.files[0]);
+        }
+    });
+
+    function setFile(file) {
+        selectedFile = file;
+        fileNameEl.textContent = file.name;
+        analyzeBtn.disabled = false;
+        statusEl.textContent = "";
+        statusEl.classList.remove("error");
+    }
+
+    analyzeBtn.addEventListener("click", async () => {
+        if (!selectedFile) return;
+
+        analyzeBtn.disabled = true;
+        statusEl.classList.remove("error");
+        statusEl.textContent = "جاري التحليل، يرجى الانتظار...";
+        resultCard.classList.add("hidden");
+
+        const formData = new FormData();
+        formData.append("file", selectedFile);
+
+        try {
+            const response = await fetch("/analyze", {
+                method: "POST",
+                body: formData,
+            });
+
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.detail || "حدث خطأ أثناء التحليل");
+            }
+
+            const data = await response.json();
+            renderResult(data);
+            statusEl.textContent = "تم التحليل بنجاح.";
+        } catch (err) {
+            statusEl.textContent = "خطأ: " + err.message;
+            statusEl.classList.add("error");
+        } finally {
+            analyzeBtn.disabled = false;
+        }
+    });
+
+    function renderResult(data) {
+        const sectionsHtml = data.sections.length
+            ? data.sections
+                  .map(
+                      (s) =>
+                          `<span class="badge">${s.type} (ص ${s.start_page}-${s.end_page})</span>`
+                  )
+                  .join("")
+            : '<span class="badge">لا توجد أقسام مكتشفة</span>';
+
+        resultBody.innerHTML = `
+            <div class="result-row">
+                <div class="result-label">اسم الملف</div>
+                <div class="result-value">${data.filename}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">عدد الصفحات</div>
+                <div class="result-value">${data.page_count}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">العنوان</div>
+                <div class="result-value">${data.title ?? "—"}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">المؤلف</div>
+                <div class="result-value">${data.author ?? "—"}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">الجامعة</div>
+                <div class="result-value">${data.university ?? "—"}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">القسم</div>
+                <div class="result-value">${data.department ?? "—"}</div>
+            </div>
+            <div class="result-row">
+                <div class="result-label">الأقسام</div>
+                <div class="result-value"><div class="sections">${sectionsHtml}</div></div>
+            </div>
+            ${
+                data.abstract
+                    ? `<div class="result-row" style="display:block;">
+                         <div class="result-label" style="margin-bottom:8px;">الملخص</div>
+                         <div class="abstract-box">${data.abstract}</div>
+                       </div>`
+                    : ""
+            }
+        `;
+
+        resultCard.classList.remove("hidden");
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,2404 @@
+==================================================
+File      : sample.pdf
+Type      : pdf
+Pages     : 80
+Title     : Disrupting Somali piracy via trust and influence operations
+Abstract  : None
+
+Detected sections:
+  - cover (pages 1-1, confidence 1.0)
+==================================================
+
+--- Page 1 ---
+Disrupting Somali piracy via trust and influence operations
+Title
+Disrupting Somali piracy via trust and influence operations
+Item Type
+Thesis
+Authors
+Bair, Robert S.
+URI
+https://hdl.handle.net/10945/4703
+Publisher
+Monterey, California: Naval Postgraduate School
+Date Issued
+2009-06
+Download date
+2026-06-18 06:52:47
+Link to Item
+https://hdl.handle.net/10945/4703
+Downloaded from NPS Archive: Calhoun
+
+
+--- Page 2 ---
+ 
+ 
+ 
+NAVAL 
+POSTGRADUATE 
+SCHOOL 
+ 
+MONTEREY, CALIFORNIA 
+ 
+ 
+ 
+THESIS 
+ 
+Approved for public release; distribution is unlimited 
+DISRUPTING SOMALI PIRACY VIA TRUST AND 
+INFLUENCE OPERATIONS 
+ 
+by 
+ 
+Robert S. Bair 
+ 
+June 2009 
+ 
+ Thesis Advisor:   
+Dorothy Denning 
+ Second Reader: 
+Steven Iatrou 
+
+
+--- Page 3 ---
+ 
+ 
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 4 ---
+ 
+ i
+REPORT DOCUMENTATION PAGE 
+Form Approved OMB No. 0704-0188 
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instruction, 
+searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send 
+comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to 
+Washington headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA 
+22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188) Washington DC 20503. 
+1. AGENCY USE ONLY (Leave blank) 
+ 
+2. REPORT DATE   
+June 2009 
+3. REPORT TYPE AND DATES COVERED 
+Master’s Thesis 
+4. TITLE AND SUBTITLE   
+Disrupting Somali Piracy via Trust and Influence Operations 
+6. AUTHOR(S)  Robert S. Bair 
+5. FUNDING NUMBERS 
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES) 
+Naval Postgraduate School 
+Monterey, CA  93943-5000 
+8. PERFORMING ORGANIZATION 
+REPORT NUMBER     
+9. SPONSORING /MONITORING AGENCY NAME(S) AND ADDRESS(ES) 
+N/A 
+10. SPONSORING/MONITORING 
+    AGENCY REPORT NUMBER 
+11. SUPPLEMENTARY NOTES The views expressed in this thesis are those of the author and do not reflect the official policy 
+or position of the Department of Defense or the U.S. Government. 
+12a. DISTRIBUTION / AVAILABILITY STATEMENT   
+Approved for public release; distribution is unlimited 
+12b. DISTRIBUTION CODE 
+13. ABSTRACT (maximum 200 words)  
+This thesis analyzes the piracy problem in East Africa focusing specifically on Somali pirate networks. It provides an 
+historical background of the political unrest in Somalia during the late 1980s and early 1990s and the subsequent 
+government collapse that followed in an attempt to identify the root cause of the piracy problem and facilitate the 
+derivation of solutions based on trust and influence operations. The study then examines the make-up, motivation, and 
+structure of Somali pirate networks to understand how they organize and operate, and how the organizations might be 
+disrupted. The study addresses current anti-piracy efforts and the reasons why they are not effective in preventing and 
+deterring Somali pirates. Alternative solutions based on instilling distrust and suspicion within the groups and 
+undermining the alliances between the pirate groups and their support structures are proposed. The techniques and 
+methods proposed in this study have been used to disrupt criminal organizations in the past and may be effective in 
+combating Somali piracy.  
+15. NUMBER OF 
+PAGES  
+79 
+14. SUBJECT TERMS 
+ 
+Trust, influence, influence operations, piracy, Somalia, Somali Piracy, disruption, deception  
+16. PRICE CODE 
+17. SECURITY 
+CLASSIFICATION OF 
+REPORT 
+Unclassified 
+18. SECURITY 
+CLASSIFICATION OF THIS 
+PAGE 
+Unclassified 
+19. SECURITY 
+CLASSIFICATION OF 
+ABSTRACT 
+Unclassified 
+20. LIMITATION OF 
+ABSTRACT 
+ 
+UU 
+NSN 7540-01-280-5500 
+Standard Form 298 (Rev. 2-89)  
+ 
+Prescribed by ANSI Std. 239-18 
+
+
+--- Page 5 ---
+ 
+ ii
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 6 ---
+ 
+ iii
+Approved for public release; distribution is unlimited 
+ 
+ 
+DISRUPTING SOMALI PIRACY VIA TRUST AND INFLUENCE OPERATIONS 
+ 
+Robert S. Bair 
+Lieutenant, United States Navy 
+B.S., Carnegie Mellon University, 2003 
+ 
+ 
+Submitted in partial fulfillment of the 
+requirements for the degree of 
+ 
+ 
+MASTER OF SCIENCE IN INFORMATION SYSTEMS AND OPERATIONS 
+ 
+ 
+from the 
+ 
+ 
+NAVAL POSTGRADUATE SCHOOL 
+June 2009 
+ 
+ 
+ 
+Author: 
+ 
+Robert S. Bair 
+ 
+ 
+ 
+Approved by:  
+Dorothy Denning 
+Thesis Advisor 
+ 
+ 
+ 
+Steven Iatrou 
+Second Reader 
+ 
+ 
+ 
+Dan C. Boger 
+Chairman, Department of Information Sciences 
+ 
+
+
+--- Page 7 ---
+ 
+ iv
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 8 ---
+ 
+ v
+ABSTRACT 
+This thesis analyzes the piracy problem in East Africa focusing specifically on 
+Somali pirate networks. It provides an historical background of the political unrest in 
+Somalia during the late 1980s and early 1990s and the subsequent government collapse 
+that followed in an attempt to identify the root cause of the piracy problem and facilitate 
+the derivation of solutions based on trust and influence operations. The study then 
+examines the make-up, motivation, and structure of Somali pirate networks to understand 
+how they organize and operate, and how the organizations might be disrupted. The study 
+addresses current anti-piracy efforts and the reasons why they are not effective in 
+preventing and deterring Somali pirates. Alternative solutions based on instilling distrust 
+and suspicion within the groups and undermining the alliances between the pirate groups 
+and their support structures are proposed. The techniques and methods proposed in this 
+study have been used to disrupt criminal organizations in the past and may be effective in 
+combating Somali piracy.  
+
+
+--- Page 9 ---
+ 
+ vi
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 10 ---
+ 
+ vii
+TABLE OF CONTENTS 
+I. 
+INTRODUCTION........................................................................................................1 
+A. 
+PURPOSE.........................................................................................................1 
+B. 
+IMPORTANCE................................................................................................1 
+1. 
+Danger to the Ship’s Crew ..................................................................5 
+2. 
+Financial Implications .........................................................................6 
+3. 
+Political Implications ...........................................................................6 
+4. 
+Potential for Environmental Disaster ................................................7 
+5. 
+Pirate Links to Extremist Groups ......................................................7 
+6. 
+Conclusion ............................................................................................8 
+C. 
+METHODOLOGY, 
+SCOPE, 
+AND 
+ORGANIZATION 
+OF 
+CHAPTERS......................................................................................................9 
+1. 
+Methodology and Scope.......................................................................9 
+2. 
+Organization of Chapters....................................................................9 
+II. 
+SOMALIA AND PIRATE NETWORKS................................................................11 
+A. 
+INTRODUCTION..........................................................................................11 
+B. 
+SOMALIA: AN HISTORICAL BACKGROUND .....................................11 
+1. 
+Ethnic Identity....................................................................................12 
+2. 
+Colonization........................................................................................14 
+3. 
+Somali Independence.........................................................................16 
+4. 
+Authoritarian Rule.............................................................................18 
+5. 
+The Fall of Said Barre and Re-emergence of Clan Based 
+Fiefdoms..............................................................................................20 
+C. 
+ROOT CAUSES.............................................................................................23 
+D. 
+PIRATE NETWORKS..................................................................................25 
+E. 
+CONCLUSION ..............................................................................................30 
+III. 
+CURRENT AND PROPOSED SOLUTIONS TO SOMALI PIRACY AND 
+THEIR ASSOCIATED LIMITATIONS.................................................................33 
+A. 
+INTRODUCTION..........................................................................................33 
+B. 
+THE ESTABLISHMENT OF A NAVAL PRESENCE .............................33 
+C. 
+ESTABLISHING A SOMALI COAST GUARD........................................37 
+D. 
+THE 
+UTILIZATION 
+OF 
+ONBOARD 
+DETERRENTS 
+AND 
+SHIPBOARD COUNTERMEASURES.......................................................37 
+E. 
+INSTITUTING REGIONAL ANTI-PIRACY PATROLS ........................38 
+F. 
+PAYING NO RANSOMS..............................................................................39 
+G. 
+TAKING NO ACTION .................................................................................40 
+H. 
+CONCLUSION ..............................................................................................40 
+IV. 
+UNDERMINING TRUST TO COMBAT PIRACY...............................................41 
+A. 
+INTRODUCTION..........................................................................................41 
+B. 
+THE IMPORTANCE OF TRUST IN PIRATE NETWORKS .................41 
+1. 
+Increased Interdependence ...............................................................42 
+
+
+--- Page 11 ---
+ 
+ 
+viii
+2. 
+The Pervasiveness of Technology and Development ......................43 
+3. 
+The Increasing Number of Options in all Aspects of Life..............43 
+4. 
+The Increased Opacity of Organizations.........................................43 
+C. 
+TRUST AND INFLUENCE TECHNIQUES TO DISRUPT SOMALI 
+PIRACY..........................................................................................................44 
+1. 
+Undermine the Trust between Pirates and the Somali 
+Population...........................................................................................45 
+2. 
+Undermine the Pirates Trust in Technology ...................................47 
+3. 
+Undermine the Relationship between the United Islamic 
+Courts (UIC) and Pirates ..................................................................48 
+4. 
+Instill Distrust within Local Pirate Networks .................................49 
+5. 
+Utilize Captured Pirate Suspects or Co-Conspirators to Create 
+Distrust................................................................................................51 
+6. 
+Increase Pirate Uncertainty Using Decoy Ships..............................52 
+D. 
+CONCLUSION ..............................................................................................53 
+V. 
+CONCLUSION ..........................................................................................................55 
+LIST OF REFERENCES......................................................................................................59 
+INITIAL DISTRIBUTION LIST.........................................................................................63 
+ 
+
+
+--- Page 12 ---
+ 
+ ix
+LIST OF FIGURES 
+Figure 1. 
+Location of Actual and Attempted Piracy Attacks 2007 [From: ICC IMB 
+Live Piracy Map] ...............................................................................................3 
+Figure 2. 
+Location of Actual and Attempted Piracy Attacks 2008 [From: ICC IMB 
+Live Piracy Map] ...............................................................................................4 
+Figure 3. 
+Location of Actual and Attempted Piracy Attacks 2009 [From: ICC IMB 
+Live Piracy Map] ...............................................................................................4 
+Figure 4. 
+Somali Clan Structure [From: (Figure 2, Moller, 2009b, p. 11)] ....................13 
+Figure 5. 
+Distribution of Clans throughout Somalia [From (Media Maps, 1992)].........14 
+Figure 6. 
+The distribution of Ethnic Somali’s [From (Figure 1, Moller, 2009b, p. 9)]...16 
+ 
+
+
+--- Page 13 ---
+ 
+ x
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 14 ---
+ 
+ xi
+LIST OF TABLES 
+Table 1. 
+Number of Attempted and Actual Attacks in Somalia and the Gulf of 
+Aden [After: Piracy and Armed Robbery Against Ships Annual Report 
+2008] ..................................................................................................................3 
+ 
+
+
+--- Page 15 ---
+ 
+ xii
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 16 ---
+ 
+ 
+xiii
+ACKNOWLEDGMENTS 
+I would like to thank the faculty and staff of the Naval Postgraduate School and 
+the National University of Singapore’s Temasek Defence Systems Institute for providing 
+for and fostering an incredible academic environment.  
+Special thanks are due to Dr. Dorothy Denning for her dedication and outstanding 
+guidance as an educator and advisor. I would also like to thank Professor Steve Iatrou, 
+my friends and colleagues at NPS and NUS, and the rest of the staff of the Graduate 
+School of Information and Operation Sciences Department for ensuring my time at the 
+Naval Postgraduate School and National University of Singapore was enriching and 
+rewarding. 
+A special thanks to my Mom and Dad, and brothers, Dan and Chris, who were 
+always there for me and provided the support and guidance to guide me down the right 
+path. 
+Finally, a very special thank you to my wife, Jaclyn, who has provided her 
+unwavering support and dedication during deployments, long working hours, and the 
+many hours spent reading and preparing for academic sessions. 
+ 
+
+
+--- Page 17 ---
+ 
+ 
+xiv
+THIS PAGE INTENTIONALLY LEFT BLANK 
+ 
+
+
+--- Page 18 ---
+ 
+ 
+1
+I. 
+INTRODUCTION 
+A. 
+PURPOSE 
+This thesis analyzes the piracy problem in East Africa focusing specifically on 
+Somali pirate networks. It provides an historical background of the political unrest in 
+Somalia during the late 1980s and early 1990s and the subsequent government collapse 
+that followed in an attempt to identify the root cause of the piracy problem and facilitate 
+the derivation of solutions based on trust and influence operations. The study examines 
+the make-up, motivation, and structure of Somali pirate networks to understand how they 
+organize and operate, and how the organizations might be disrupted.  
+The study addresses current anti-piracy efforts and the reasons why they are not 
+effective in preventing and deterring Somali pirates. Alternative solutions based on 
+instilling distrust and suspicion within the groups and undermining the alliances between 
+the pirate groups and their support structures are proposed. The techniques and methods 
+proposed in this study have been used to disrupt criminal organizations in the past and 
+may be effective in combating Somali piracy.  
+B. 
+IMPORTANCE 
+The dramatic increase in ship hijackings and armed robbery in the Gulf of Aden 
+and Indian Ocean near Somalia pose a serious security concern for all nations with 
+maritime assets operating in the region. Annually, nearly 16,000 ships pass through the 
+Gulf of Aden, carrying valuable cargo, such as oil form the Middle East or consumer 
+goods produced in Asia, en route to Europe and the Americas (Middleton, 2008). These 
+ships, along with their crews and valuable cargo, are being targeted and attacked by 
+bands of pirates operating from bases within the failed state of Somalia at an alarmingly 
+increasing rate. The attacks and the negative side effects associated with them have the 
+potential of disrupting and dramatically affecting global trade. 
+
+
+--- Page 19 ---
+ 
+ 
+2
+In 2008, Attacks in the Gulf of Aden reached their highest levels since reporting 
+started in 1992, with piracy in East Africa up 200% from the previous year (See Table 1) 
+(Hanson, 2009). There were 111 attempted hijackings in 2008, 42 of which succeeded 
+(IMB reports unprecedented rise in maritime hijackings.). In the first four months of 
+2009 there have been 66 attacks against merchant shipping vessels operating in and 
+around the Gulf of Aden (Associated Press, 2009b), and those numbers are likely 
+underreported due to the sheer volume of maritime crime occurring in the region (IMB 
+reports unprecedented rise in maritime hijackings.). According to some experts, up to 
+50% of attacks are not reported “largely because subsequent investigations and delays 
+result in costs that the ship companies themselves must bear” (Chalk, 2008, p. 7). Prior to 
+the end of 2007, pirate gangs primarily operated in the Gulf of Aden within a fifty-mile 
+radius of the port of Mogadishu (Middleton, 2008). However, in the past twenty months 
+they have increased their operating radius to nearly 400 nautical miles, expanding their 
+area of operations into the Indian Ocean. The pirates are now stalking ships over an area 
+covering more than 2.8 million square kilometers ("MV Sirius Star"). The shift in tactics 
+and extension in range exemplifies the pirates’ willingness and ability to operate outside 
+the areas patrolled by designated anti-piracy forces. Figures one through three illustrate 
+the increased activity and range of the Somalia based pirates. 
+
+
+--- Page 20 ---
+ 
+ 
+3
+0
+20
+40
+60
+80
+100
+120
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+Attacks
+Year
+*2009 Data as of April 8, 2009
+Number of Attempted and Actual Attacks in 
+Somalia and the Gulf of Aden
+ 
+Table 1.   
+Number of Attempted and Actual Attacks in Somalia and the Gulf of Aden 
+[After: Piracy and Armed Robbery Against Ships Annual Report 2008]   
+ 
+Figure 1.   
+Location of Actual and Attempted Piracy Attacks 2007 [From: ICC IMB Live 
+Piracy Map] 
+
+
+--- Page 21 ---
+ 
+ 
+4
+ 
+Figure 2.   
+Location of Actual and Attempted Piracy Attacks 2008 [From: ICC IMB Live 
+Piracy Map] 
+ 
+Figure 3.   
+Location of Actual and Attempted Piracy Attacks 2009 [From: ICC IMB Live 
+Piracy Map] 
+
+
+--- Page 22 ---
+ 
+ 
+5
+The implications and dangers of piracy in east Africa reach well beyond Somalia 
+and Africa. A vast majority of ships operate under flags from Europe, Asia, and North 
+America and are crewed by citizens of many nations. The implications include but are not 
+limited to: (1) The physical threat to the ship’s crew; (2) the financial implications for 
+businesses and countries with international shipping interests in the region; (3) the 
+political implications of the attacks and the disruption of humanitarian assistance to the 
+region; (4) the potential for environmental disaster; and (5) the possibility that pirate 
+groups may link up with Islamic extremist or terror groups. These are a grave concern to 
+the international community.  
+1. 
+Danger to the Ship’s Crew 
+One of the most obvious dangers of piracy is the threat of physical harm to the 
+crew of a hijacked vessel. In many cases pirates fire upon the target vessel with automatic 
+weapons and rocket propelled grenades (RPG) in an attempt to force the vessel to slow or 
+stop for ease of boarding. After the attack on the Maersk Alabama and subsequent killing 
+of three Somali pirates by U.S. forces in April 2009, pirates have vowed to “seek out the 
+Americans and if we capture them we will slaughter them” (Somali Pirates Vow to Hunt 
+Down, Kill Americans in Revenge.2009). Previously the largest threat to mariners was 
+being struck by indirect fire or the collateral damage caused by the attacks. However, this 
+overt threat may suggest a change in the pirates’ modus operandi. The recent shift 
+towards more violent tactics is “seldom recognized, largely because assaults tend to be 
+directed against less than visible targets,” referring to ships operating on the high seas 
+(Chalk, 2008, p. 15). “If you had civilian aircraft being threatened or bazookas being 
+fired at train drivers, there would be a public outcry. Because it’s shipping, it’s out of 
+sight out of mind” (Chalk, 2008, p. 15). The international community should be deeply 
+concerned about the well-being of their citizens because “as of December 31, 2008 
+Somali pirates were holding 13 vessels for ransom and 242 crew hostage” (Ismail, 2009, 
+p. 1). The crews already in captivity and those who may be captured in the future are in 
+grave danger of being subjected to violent activity in an essentially lawless state.  
+
+
+--- Page 23 ---
+ 
+ 
+6
+2. 
+Financial Implications 
+The attacks on commercial vessels cost shipping companies nearly $150 million 
+in ransom monies in 2008 and the price of consumer goods increased an estimated $60 to 
+$70 million dollars to compensate for losses and expenses related to pirate attacks (BBC 
+News, 2008). In addition, the cost of insurance premiums for companies operating in the 
+Gulf of Aden has increased tenfold in the last year (Middleton, 2008). If the danger does 
+not subsist and insurance premiums continue to rise, companies will be forced to alter 
+shipping routes to avoid transiting through the Gulf of Aden. “The extra weeks of travel 
+and fuel consumption would add considerably to the cost of transporting goods. At a time 
+when the price of oil is a major concern, anything that could contribute to a further rise in 
+prices must be considered very serious indeed” (Middleton, 2008, p. 3). It is estimated 
+that East African piracy costs the international community over $1 billion dollars a year 
+from increased insurance premiums, freight expenses, and the cost of rerouting ships to 
+avoid known problem areas (Hanson, 2009).  
+3. 
+Political Implications 
+The dangers of these attacks stem far beyond the physical threat to the safety of 
+the crew and increased costs forced upon the shipping company.  In addition to the 
+financial impacts of piracy, there are geopolitical repercussions of piracy that may 
+demand greater concern including the further destabilization of the region caused by a 
+lack of governance and humanitarian assistance (Hanson, 2009); the potential for an 
+environmental disaster; and the possible link of piracy to violent extremist groups 
+(Middleton, 2008). 
+The collapse of Somalia’s government in the early 1990s left the country 
+impoverished and in great need of humanitarian aid. A serious drought and violent 
+clashes between warring factions over control of disputed territories has only further 
+exacerbated the problem. The United Nations World Food Program (WFP) estimates 
+Somalia will need 185,000 tons of food aid in 2008 (Middleton, 2008). Foodstuffs are 
+routinely delivered to the Somali people by sea because transporting it by land is 
+impractical and extremely dangerous. Violent activities on the high seas forced the WFP 
+
+
+--- Page 24 ---
+ 
+ 
+7
+to seek naval escorts to ensure the safety of their ships. In 2008, when the Netherlands 
+completed its escort duties, food deliveries were halted for two months due to the 
+difficulty of finding a country to take over the dangerous escort duties. In a country with 
+over a million displaced personnel, two months without aid can seem like an eternity 
+(Middleton, 2008). The lack of food and widespread poverty has caused some Somali 
+people to turn to regional warlords for relief. With an abundance of arms and weaponry, 
+warlords direct the personnel to violent activities such as robbery and piracy to fund the 
+clan. International food aid and humanitarian assistance are essential to alleviating violent 
+activity within Somalia. Piracy and crime on the high seas makes aid delivery and 
+assistance much more difficult. 
+4. 
+Potential for Environmental Disaster   
+The potential for an attack to create a hazardous environmental catastrophe is very 
+real. Oil tankers routinely pass through these dangerous waters and in some cases fall 
+victim to pirate attacks. In November 2008, the Sirius Star, a Saudi oil tanker carrying 
+two million barrels of oil was attacked by pirates who fired rocket-propelled grenades 
+(RPG) and automatic weaponry at the ship in an attempt to board ("MV Sirius Star"). In 
+April 2008, in a similar “attack on the Takayama the ship’s fuel tanks were penetrated 
+and oil spilled into the sea” (Middleton, 2008, p. 4). An oil fire or large spill caused by an 
+RPG attack could result in an environmental disaster that could destroy wildlife and 
+cause severe damage to the fragile and valuable ecosystem in the Gulf of Aden and 
+Indian Ocean.  
+5. 
+Pirate Links to Extremist Groups 
+There is some concern that Somali pirates could become agents of terrorist 
+networks, and that ransoms may be funneled to terrorist organizations (Middleton, 2008, 
+p. 10). While no formal ties between East African pirates and terrorist groups have been 
+established to date, Army General William “Kip” Ward, head of the Pentagon’s Africa 
+Command, told the Associated Press, “if you look at the clan structure or the tribes – to 
+think that there may not be linkages is probably naïve” (Associated Press, 2009a). The 
+
+
+--- Page 25 ---
+ 
+ 
+8
+large ransoms – in some cases more than $3 million U.S. dollars – could be utilized by 
+extremist groups to finance worldwide terror campaigns (Wadhams, 2009). Al-Shabab, 
+an Al-Qaeda linked terrorist organization, “lashed out publicly at a group of pirates late 
+last year after they attacked the Sirius Star” (STRATFOR, 2008, p. 2). However, the 
+temptation to reap the benefits from pirate activities and finance a jihadist campaign may 
+be too attractive to keep the two from joining forces. In addition to the financial 
+implications of association, terrorist organizations would have access to a maritime 
+weapon delivery method enabled by the maritime expertise and skill possessed by the 
+pirate gangs. Attacks on naval assets or large ships that could slow or stop regional trade 
+would not lie outside the realm of possibility. For example, “a large ship sunk in the 
+approach to the Suez Canal would have a devastating impact on global trade” (Middleton, 
+2008, p. 10). In addition, terrorist groups could utilize the hostages from hijackings at sea 
+“as bargaining chips or high-profile victims of an atrocity” to further their ideological 
+objectives (Middleton, 2008, p. 10). 
+6. 
+Conclusion 
+The importance in curtailing piracy in East Africa cannot be overstated. The 
+financial and geopolitical impacts and danger to the environment should cause great 
+concern to the international community. In Suppression of Piracy and Maritime 
+Terrorism, Martin Murphy notes, “piracy is a crime defined by geography that requires 
+the presence of other factors such as a permissive political environment, cultural 
+acceptability, and the opportunity for reward in order to flourish” (p. 25). The factors that 
+contribute to the emergence and sustainment of piracy are not likely to be eliminated, but 
+may potentially be suppressed if local and national leaders can find reasons and resources 
+to do so (Murphy, 2007). Decisive action must be taken to prevent or curtail attacks in 
+east Africa and restore law to the high seas in the Gulf of Aden and Indian Ocean. 
+
+
+--- Page 26 ---
+ 
+ 
+9
+C. 
+METHODOLOGY, SCOPE, AND ORGANIZATION OF CHAPTERS 
+1. 
+Methodology and Scope 
+The methodology of this thesis is mainly analytical and draws on historical 
+examples to identify the root causes of Somali piracy, determine why current anti-piracy 
+operations have failed, illustrate how trust and influence operations have been 
+successfully applied against criminal networks in the past, and identify how such 
+operations might be effective against pirate networks. 
+This study focuses exclusively on East African piracy stemming from Somalia. 
+Also, while the thesis reviews a range of counter-piracy approaches that have been tried, 
+it focuses on new solutions that use trust and influence operations to instill distrust within 
+the network and its support structure. No other pirate networks or regions are analyzed. 
+However, examples are drawn from other criminal organizations to illustrate how trust 
+and influence operations have been successfully used in the past and might be applied to 
+the Somali piracy problem. 
+2. 
+Organization of Chapters 
+This thesis is divided into five chapters. This first chapter stated the purpose of 
+the thesis, its importance to the international community, the methodology utilized to 
+generate the proposed solutions and conclusions, and a chapter outline. The second 
+chapter contains background information regarding the collapse of the Somali 
+government and breakdown of the social infrastructure from which the piracy problem 
+evolved. It describes the proposed root causes of the piracy in an effort to tailor a 
+response able to effectively address the problem. Chapter II also provides an analysis of 
+the size, make-up, organization, and motivations of pirate networks. The third chapter 
+presents an overview of current anti-piracy missions being conducted by the international 
+community. These efforts are analyzed and scrutinized for their limited effectiveness in 
+treating preventing and deterring further attacks. Chapter IV utilizes the framework and 
+analysis conducted in the first three chapters to generate proposed solutions based on 
+trust and influence techniques. The alternative solutions are based on instilling distrust 
+
+
+--- Page 27 ---
+ 
+ 
+10
+and suspicion within the groups and undermining the alliances between the pirate groups 
+and their support structures. Finally, Chapter V gives conclusions based on the previous 
+four chapters.  
+ 
+ 
+
+
+--- Page 28 ---
+ 
+ 
+11
+II. 
+SOMALIA AND PIRATE NETWORKS 
+A. 
+INTRODUCTION 
+The purpose of this chapter is to provide an historical background of the Somali 
+people and of the collapse of the Somali government in the early 1990s. An analysis of 
+the historical context behind the emergence of piracy in the region provides insights on 
+the true causes of the resurrection of piracy and how the problem may be addressed. 
+Furthermore, widely accepted root causes of piracy are explored. 
+In addition, pirate networks will be described to identify their organizational and 
+support structures, size, and leadership. This information is utilized in Chapter IV to 
+identify areas where trust and influence operations may be injected to disrupt the 
+network. 
+B. 
+SOMALIA: AN HISTORICAL BACKGROUND 
+An analysis of Somalia’s past may give insights into what has caused the dramatic 
+increase in piracy in the past two decades. In the late 1800s, the area was colonized by 
+western powers, Italy, France, and Britain, breaking a generally ethnically homogeneous, 
+clan based population into artificially diverse groups separated by boundaries designated 
+by their colonial rulers. After Somalia gained its independence from the colonial powers 
+in 1960, the population momentarily embraced a centralized democratic government that 
+sought to unify all ethnic Somalis and clan fiefdoms. However, the populace never quite 
+achieved the ethnic solidarity needed for a successful democracy. This lead to a military 
+coup under which General Siad Barre would control the country with an iron first for 
+over twenty years. Barre’s favoritism and cruel treatment of certain ethnic groups and 
+clans lead to his overthrow in 1991 and began an era of perpetual volatility characterized 
+by violent clashes between warlord clan leaders.  Since 1991 there has been no central 
+government, “no ministries; no systematic maintenance of infrastructure; and Somalia 
+cannot ratify international conventions since technically it does not exist” (Lindner, 2001 
+p. 87). The country fell into a state of anarchy leaving millions dead or starving.  
+
+
+--- Page 29 ---
+ 
+ 
+12
+Did the lawlessness, lack of government support, and impoverished state lead to 
+the rise of modern piracy or were there other factors at hand that caused the problem? 
+This analysis seeks to provide a background to allow the reader to answer those questions 
+and to establish the root causes of piracy to help the reader understand the problem and 
+methods by which it may be treated. It also recognizes the importance of clan structures 
+in Somali society which could present opportunities for exploitation or injection of 
+influence operations. 
+1. 
+Ethnic Identity 
+It is important to understand the ethnic makeup of the Somali population and how 
+they identify themselves before an analysis of the government or lack thereof takes place. 
+Studies of the Somali people suggest they unite ethnically “by language, by culture, 
+religion, and by social institutions. They belong to one single family of African peoples 
+inhabiting the Horn of Africa, known to linguists as Cushitic (Hamitic)” (Lindner, 2001 
+p. 88). In addition, many Somali people identify themselves with their ancestral nomadic 
+peoples who traveled the “vast arid savannah grasslands of Eastern Africa…united by 
+their pristine pride, their interdependence in rather egalitarian, horizontal societal 
+relations of alliances and conflicts with great autonomy for each grouping; in other words 
+they live in almost unconnected coexistences” (Lindner, 2001 p. 89). In essence, the 
+people of Somalia have been opposed to vertically organized, bureaucratic structures 
+typically seen in the west and better identify with their tribal ancestry and clan like 
+authoritarian structure (Lindner, 2001).  Clans claim to be descended from their Arab 
+ancestors with nearly seventy-five percent of the Somali population coming from 
+“traditionally pastoral nomadic clans including Dir, Daarood, Isaaq, and Hawiye” 
+(Lindner, 2001 p. 88). It is this clan-based identification that dominates the Somali way 
+of life. Figure 4 illustrates a rough outline of the ethnic Somali clan structure while figure 
+5 illustrates the distribution of these clans throughout the country. Throughout the 
+region’s history the importance and prominence of this identification establishes itself as 
+the central theme when a power grab takes place. 
+ 
+
+
+--- Page 30 ---
+ 
+ 
+13
+ 
+ 
+ 
+ 
+ 
+Figure 4.   
+Somali Clan Structure [From: (Figure 2, Moller, 2009b, p. 11)] 
+ 
+
+
+--- Page 31 ---
+ 
+ 
+14
+ 
+Figure 5.   
+Distribution of Clans throughout Somalia [From (Media Maps, 1992)] 
+The Somali people also feel “united by their devotion to Islam,” although not the 
+Wahhabi version that is predominant in the Arabian Peninsula (Lindner, 2001 p. 89). 
+(Moller, 2009b, p. 8) The Somalis embraced their own version of the Islamic religion, 
+Sufist, which is represented by the Qadiriya, Salihiya, and Ahmadiya brotherhoods 
+(Moller, 2009b, p. 8). Today, several Islamist groups including the radical group, Al-
+Shabab, play an important role in the government of Somalia.     
+2. 
+Colonization 
+In the late 1800s and early 1900s, the colonial powers of Italy, Britain, and France 
+discovered they had uses for Somali territories and began to stake claims. Anna Simons 
+
+
+--- Page 32 ---
+ 
+ 
+15
+said of the colonization, “The European scramble for control over eastern trade led to 
+protectionist and counter-protectionist seizures across the globe. If Britain acquired Aden 
+to protect its Suez routes to the subcontinent, then France had to acquire something 
+nearby as a counterweight (hence Djibouti)” (Lindner, 2001 p. 89). Once the colonial 
+powers were through with their land grab, the Somali people had been broken up into five 
+western ruled territories: (1) Djibouti, under French control, which includes the ethnically 
+related Afar tribesman (Lindner, 2001 p. 89); (2) the British controlled northern part or 
+present day Somaliland as well as all of present day Kenya (Moller, 2009b, p. 8); (3) 
+Italian Somalia with Mogadishu as the capital; (4) the Somali tribesman area controlled 
+by Britain in Northern Kenya; (5) the Ethiopian portion comprised of the Ogaden and 
+Dire Dawa territories (Lindner, 2001). With the Somali identity tied to their nomadic 
+roots, autonomous clan structure, and sense of tribal individualism, the colonization of 
+their peoples by the French, British, and Italians certainly did not fit into their 
+conventional roles and views of government influence. Ethnic Somali’s already 
+possessed a sense of identity although there were no formal borders established by 
+governments or central authoritarian structure. The clans identified and established their 
+own communities and operated as an autonomous entity in a population of like-minded 
+individuals. Figure 6 illustrates the distribution of ethnic Somalis in relation to formally 
+declared borders of Somalia and other states in the region. 
+
+
+--- Page 33 ---
+ 
+ 
+16
+ 
+Figure 6.   
+The distribution of Ethnic Somali’s [From (Figure 1, Moller, 2009b, p. 9)] 
+The once autonomous, self-organizing, clan based society was now placed under 
+the control of western powers.  A people who once were united by religion and ancestral 
+roots were now separated by five artificially created borders in the self interest of the 
+colonial power. Ali Mauzui, as quoted by Evelin Linder, writes, “Most other African 
+countries are colonially created states in search of a sense of nationhood. The Somali, by 
+contrast, are a pre-colonial nation in search of a unified post-colonial state. Most other 
+African countries are diverse peoples in search of a shared national identity. The Somali 
+are already a people with a national identity in search of territorial unification” (Lindner, 
+2001 p. 89). The clan fiefdoms were forced to comply with the military might of the 
+colonial powers. 
+3. 
+Somali Independence 
+The Somali people were subjected to colonial rule for nearly half a century. In 
+1960, the former British Protectorate of Somaliland in the north and the Italian Trust 
+Territory of Somalia united and became the Republic of Somalia. The three other regions 
+comprised of people of Somali identity did not join the new republic. The Ethiopians and 
+
+
+--- Page 34 ---
+ 
+ 
+17
+Kenyans would not annex territory to the republic and France would not relinquish 
+control of Djibouti. Somalis would not completely regain the ethnic solidarity they once 
+enjoyed before colonial rule. The idea of independent clans ruling autonomously seemed 
+to fall by the way side and gave way to a temporary democratic government in the 
+Republic of Somalia.  
+Although the democratic government thrived initially, it soon lost credibility 
+amongst citizens. The initial successes most likely contributed to the new government’s 
+efforts to reunite ethnic Somalis under a single government structure. While most ethnic 
+Somalis identified with a particular clan and pledged their loyalties to separate, 
+autonomous clan-based fiefdoms, nearly all Somali’s believed in the concept of ‘Asabia’ 
+or social solidarity introduced by North African philosopher Ibn Khaldun in the 14th 
+century (Lindner, 2001). The concept implied that the Somali people “sought to unite all 
+Somalis including those in Kenya, Ethiopia, and Djibouti into one unitary state” 
+(Lindner, 2001 p. 90). The five-pointed star on the new Somali flag would illustrate the 
+Somali sense of nationalism. “The five points represented former British Somaliland and 
+Italian Somalia – which were united within a week of independence – plus Djibouti, the 
+Ogadeen province of Ethiopia and the north-eastern part of Kenya” (Moller, 2009b, p. 8). 
+However, Asabia failed to come to fruition due to the previously mentioned territorial 
+disputes with Ethiopia, Kenya, and French Djibouti, and Somali nationalism was never 
+achieved and the government soon came to be “perceived as anarchic and corrupt” 
+(Lindner, 2001 p.90). Former clan leaders and those placed into power by the colonial 
+rulers vied for power. Elections became chaotic, corruption amongst public officials was 
+rampant, and the elites of society lived in luxury (Lindner, 2001). Democracy was to be 
+short lived in Somalia. It lasted only nine years. “The March 1969 elections, the last 
+democratic elections in Somalia so far, saw 62 parties being created at the national level, 
+and 1002 candidates standing for 123 seats” (Lindner, 2001 p. 90). Democracy was 
+failing to unite Somali’s as it was intended. In fact, it was acting to further divide the 
+people and fostering corruption. In October 1969, the newly elected President Shermarke 
+was murdered. This would mark the end of democracy in Somalia. 
+
+
+--- Page 35 ---
+ 
+ 
+18
+4. 
+Authoritarian Rule 
+The murder of President Shermarke and the troubles associated with a Somali 
+democracy paved way for a “dictatorial savior to seize power” (Lindner, 2001 p. 91). The 
+very next day, General Siad Barre, a general in the Somali army, claimed the presidency. 
+The new president also revitalized the idea of Asabia and sought to unite all Somali’s 
+under a central government. “He condemned tribalism and clanism and seemed to stand 
+for a government that wished to care for all Somalis and not just for one clan” (Lindner, 
+2001 p. 91). He quickly established a socialist government and befriended the Soviet 
+Union in order to capitalize on Soviet financing during the Cold War.  
+The first few years of Barre’s rule were peaceful and the country experienced 
+significant steps towards national and economic development. He built a large and 
+powerful army, and would use it to further his goal of Asabia. His sense of nationalism 
+and desire to reunite the ethnic Somali people lead him to attack Ethiopia in 1978. Barre 
+supported Somali rebel separatist groups inside Ethiopia, namely the Western Somali 
+Liberation Front (WSLF) and with the backing of the Soviet Union, Barre attempted to 
+free Ogadeen and the ethnic Somali’s who occupied the area (Moller, 2009b).  
+The Ogadeen War involved over 300,000 Somalis, Ethiopians, Soviets, Cubans, 
+Eritreans, and Yemenites (Lindner, 2001 p. 92). The Soviet backed Somalis were on the 
+verge of victory when a bizarre turn of events occurred. Said Samatar, as quoted by 
+Linder said, “The resourceful Ethiopians, as usual, bushwhacked the Somalis through 
+international diplomacy. They declared themselves socialist and appealed for help from 
+their ‘fraternal Soviet Socialist’ people. The Soviets were only too happy to oblige. 
+Switching support from the Somalis, they shipped into Ethiopia in February and March 
+1978 some $US 1.5 billion in military hardware, together with two leading Soviet 
+generals and 1500 advisers. The majority of the advisers went straight from their advisory 
+positions in the Somali army and, in tragicomic turn of events in keeping with Somali 
+history, took with them practically all of the Somali maps of the region, showing to the 
+enemy the troop movements and disposition of the Somali army. For good measure, the 
+Soviets directed Fidel Castro, wager of Soviet proxy wars in Africa, to pitch in with 
+
+
+--- Page 36 ---
+ 
+ 
+19
+11,000 Cuban troops. Ethiopia, by the region’s standard, had now an awesome force. 
+Within weeks they had the Somalis ejected from Ogadeen” (p. 92). General Barre 
+severely overestimated his country’s importance to the Soviet Union. After the USSR 
+changed their allegiance to support Ethiopia, Barre thought he could count on assistance 
+from the United States. Again, he overestimated the strategic importance of his country 
+and President Carter denied his request for support. Somalia’s fate was settled (Moller, 
+2009b). 
+The defeat left Barre and his army humiliated and the country became “more 
+despotic and increasingly infected by clanism, notwithstanding its early attempts to ban 
+clanism and tribalism” (Moller, 2009b, p. 10). The peaceful and prosperous times 
+experienced at the beginning of the Barre regime were gone. He felt he had to secure his 
+position as dictator and was wary of any coup attempts against him. He placed blame 
+regarding the defeat on others in the regime, mainly the Somalis in the northern part of 
+the country (Lindner, 2001 p. 92). The northern clans were a convenient scapegoat for 
+Barre since he was descended from the Marehan sub-clan in the South of Somalia 
+(Lindner, 2001). In an attempt to reclaim power and shift the blame away from his 
+regime, Barre sent his army to attack the Majerteen and Isaaq peoples in the north. Clan 
+structure and loyalty once again became a central theme in the lives of the Somali people. 
+The president continued his assault on the people he blamed for his defeat and the 
+positions of power within the government were quickly filled with members of Barre’s 
+native Marehan clan and others of the Ogadeen and Dulbahante clans (Moller, 2009b). 
+The peaceful and supportive dictator became a violent oppressor of any group who he 
+perceived as a threat to his power. He cut off all aid to the northern part of his country 
+and removed or had executed anyone he identified as a threat to his rule.  
+Barre’s oppression and violence against the Somali people continued over the 
+following decade. “Government forces were determined to suppress grass roots rebellion 
+amongst the northern clans. As many as 100,000 people are thought to have died as a 
+result of the attacks. Some 250,000 sought refuge in border camps in Ethiopia, or fled to 
+the countryside for safe haven. Thousands more citizens in the eastern and middle regions 
+of the country had, over the years, their villages burned, livestock looted, and families 
+
+
+--- Page 37 ---
+ 
+ 
+20
+made destitute or killed by the soldiers of a govement which would not tolerate criticism 
+– a government which was at war with its own people” (Lindner, 2001 p. 95). Barre 
+continued to target clans that he felt were a threat to his power and further divided his 
+country along clan lines. 
+5. 
+The Fall of Said Barre and Re-emergence of Clan Based Fiefdoms 
+In December 1990, Barre’s hold on the government of Somalia began to wane. He 
+no longer had the backing of the U.S.S.R. or the United States and could no longer 
+control his rival clans. By January 1991, Siad Barre was ousted from power and a battle 
+to gain control of the country began. Clan based militias vying for power “killed 
+hundreds of thousands and led to wide spread starvation across Somalia” (Hansen, 2006, 
+p. 5). The most powerful clan leaders were able to quickly seize power or create alliances 
+with other clans that would characterize several regions of the fractured country.  
+In the months leading up to Barre’s overthrow an Ethiopian backed secessionist 
+group called the Somali National Movement along with a group of northern clan elders, 
+primarily from the Isaaq clan, met and declared the former British northwestern area 
+bordering Djibouti, Somaliland (Lindner, 2001). At about the same time in the Mijerteen 
+controlled northeast another semi-autonomous region, Puntland, was established by the 
+Somali Salvation Democratic Front (SSDF) who opposed the central government 
+(Moller, 2009b). In the capital of Mogadishu severe inter-clan fighting was taking place. 
+General Aideed and the Habr Abgal clan and Ali Mahdi Mohamed and his Abgal clan 
+were in a bloody fight for power. By 1992, in Mogadishu and the immediate vicinity 
+alone, 300,000 people died from hunger or related illnesses and 44,000 were killed in the 
+fighting (Moller, 2009b). In Somalia’s southern areas, Barre’s supporters continued to 
+battle with rival clans. The fighting transformed the southern areas of Gedo, Bay, Bakool, 
+Lower Shabelle, Lower Juba, and Middle Juba regions into a virtual wasteland (Hansen, 
+2006). The violence and efforts to restore order in the south would continue for nearly a 
+decade. 
+The role of Islamism was not extraordinarily important in the first civil war. The 
+moderate nature of the Sufi Somali version of Islam did not lead to any rise in radical 
+
+
+--- Page 38 ---
+ 
+ 
+21
+Islamist activity, however several more rigid Salafist groups emerged during the period 
+and Al-Qaeda attempted to establish a front in Somalia, but failed miserably. Radical 
+Salafist ideas did not sit well with the Somali people (Moller, 2009b).  
+In 1994 Somalia was left to its own devices and began to self-organize and re-
+established the “traditional social structures in Somalia with their customary law (xeer) 
+and the clan system with its diya (blood money) norms served to contain both feud and 
+criminal violence through a system of mutual deterrence in which the clan elders played a 
+central role in constraining their respective clan members” (Moller, 2009b, p. 13). The 
+lack of central governance and social programs were temporarily replaced by Islamic 
+organizations and liberal Sharia court systems. These systems proved enough to 
+moderately regulate the people and promote discipline and good order all while fostering 
+a fairly successful business environment (Moller, 2009b). 
+In late 2000, the Transnational National Government (TNG) of Somalia was 
+established with the backing of the United Nations (UN). The goal of the TFG was to 
+take control of the southern two thirds of Somali and unite the warlords who divided the 
+country into a clan fiefdom. However, the TNG would only control several small areas in 
+the capital and a few enclaves in the countries interior and never gained the clan support 
+necessary to unite under a central government (Moller, 2009b). Then in 2004, the 
+Transnational Federal Government (TFG) was established along with a parliamentary 
+system that allowed various clans to appoint parliament leaders. The TFG was too weak 
+to enforce its authority over the country and requested the assistance of the United 
+Nations (UN) and African Union (AU) for protection. In 2006, with help of Ethiopian 
+forces the TFG finally was stood up in Mogadishu, however to date is still too weak to 
+take control of the entire country. 
+Also in 2006, a group of Islamists came together and formed the Union of Islamic 
+Courts (UIC) and took over the area the TFG sought to control. The UIC ousted the 
+warlords who had controlled the area for the last 15 years, and established a strict form of 
+Sharia law that brought temporary stability to the volatile region. They reopened ports 
+and the airport in Mogadishu and dismantled the many roadblocks throughout the city, 
+dramatically improving the day-to-day lives of the civilian population. (Moller, 2009b) In 
+
+
+--- Page 39 ---
+ 
+ 
+22
+addition, the UIC was in strict opposition to piracy and was able to effectively irradiate it 
+for the second half of 2006 (Stuhldreher, 2008). However, the UIC rejected the role of the 
+TFG and declared a defensive jihad on the Ethiopian military that was trying to protect 
+the TFG. The UIC had a mixture of radicals and moderates with no clearly defined 
+leadership structure which would likely lead to its downfall. The radical branch was 
+suspected of carrying out terrorist attacks and supporting the violent Al-Shabab militia 
+(Moller, 2009b). The United States and Ethiopia disapproved of the Islamists rule and, 
+near the end of 2006, Ethiopian troops with the backing and support of a few US Special 
+Operations teams with authority of the TFG drove the Islamists from power (Lennox, 
+2008). The area was once again reverted to clan-based factions struggling to establish 
+control of the region. 
+Today, the stability and prosperity of Somalia is as diverse as the clans who 
+occupy the area. In some areas, a terrible humanitarian crisis rages on, while in others the 
+population enjoys relative prosperity (Powell, Ford, & Nowrasteh, 2006). The region of 
+Somaliland remains relatively stable while the semi-autonomous region of Puntland is 
+riddled with crime and likely harbors most of the pirates carrying out the attacks on 
+international shipping. The diversity of the political landscape in Somalia and its complex 
+past with a strong favoring of clan-based rule suggests order will not be established in 
+Somalia any time soon, and the chances of a domestically supported Somali answer to the 
+piracy problem is most likely not going to occur. The historical context by which Somalia 
+has arrived in its current state will help to identify target areas for which trust and 
+influence operations can be injected to break up the organizations or disrupt their patterns 
+of behavior to curtail the piracy problem, namely, the importance and understanding of 
+the Somali reliance of clans and their identification with certain warlords who are thought 
+to control the pirate networks. Dating back thousands of years, ethnic Somalis have 
+identified with a particular clan with the hopes of one day uniting all clans under a central 
+government without relinquishing control of its people. From the onset of colonial rule 
+through the rule of General Siad Barre, the autonomous rule of clan-based societies was 
+oppressed and not recognized. With the collapse of Barre’s government and resurgence 
+of the warlord ruled clan fiefdoms it has become apparent how important this structure is 
+
+
+--- Page 40 ---
+ 
+ 
+23
+to the Somali people. This provides a unique opportunity for exploitation and division to 
+attempt to curtail the maritime piracy problem.  
+C. 
+ROOT CAUSES 
+From the historical analysis it is difficult to ascertain the root causes of the piracy 
+problem and establish a direct cause and effect relationship. However, it is clear that the 
+social framework and order typically provided by a functioning government is not present 
+and there is a lack of infrastructure along with a greatly divided political system which all 
+contributes to the two most widely accepted theories regarding the cause of modern 
+piracy off the coast of Somalia: (1) piracy is a crime of opportunity for an oppressed and 
+impoverished population or; (2) piracy is an act of self defense against more powerful 
+nations seeking to exploit the region’s water resources.  
+Many argue that piracy is simply a crime of opportunity that resulted after the 
+collapse of Barre’s regime. The theory suggests that because of the absence of a coast 
+guard to patrol the waters off the coast and lack of a police force capable of enforcing 
+laws on land, combined with an abundance of ships passing offshore, the piracy problem 
+grew organically out of necessity and opportunity. “According to the final report of the 
+experts group convened in November 2008 by U.N. Special Representative to Somalia 
+Ahmedou Ould-Abdallah, poverty, lack of employment, environmental hardship, pitifully 
+low incomes, reduction of pastoralist and maritime resources due to drought and illegal 
+fishing and a volatile security and political situation all contribute to the rise and 
+continuance of piracy in Somalia” (Ploch, Blanchard, O'Rourke, Mason, & King, 2009, p. 
+7). Those engaged in piracy see it as an opportunity to gain financial reward in a country 
+where a steady income and food are hard to come by. “While the profitability of piracy 
+appears to be the primary motivating factor for most pirates, other observers argue that 
+since conditions in Somalia make survival difficult for many and prosperity elusive for 
+most, the relative risk of engagement in piracy appears to have been lowered in many 
+areas” (Ploch et al., 2009, p. 7). 
+Others assert the problem is an act of self-defense. They claim the regions 
+national resources are being exploited by nations seeking to make a profit in Somalia’s 
+
+
+--- Page 41 ---
+ 
+ 
+24
+recognized economic exclusive zone. The two most widely recognized areas of concern 
+are illegal fishing and dumping. The theory suggests that the pirates initially acted as a 
+marine defense force seeking to drive away foreign vessels engaged in what they 
+considered illegal activities. “These armed groups of young Somali fisherman quickly 
+learned, however, it was far more lucrative and far less dangerous to attacks large and 
+generally unarmed commercial vessels” (Lennox, 2008, p. 9). The activities were 
+supported on shore and not subjected to criminal prosecution because of the widespread 
+destitution and starvation in the area (Lennox, 2008). 
+Katie Stuhldreher of George Washington University says, “the problem of piracy 
+in Somalia originated about a decade ago because of disgruntled fisherman. The headless 
+state had no authority to patrol its tuna-rich coastal waters and foreign commercial 
+vessels swooped in to cast their nets. This proved a slap in the face for Somalis, who saw 
+these vessels as illegal and raking in profits at the expense of the local impoverished 
+population. That prompted local fisherman to attacks foreign vessels and demand 
+compensation” (p. 1). The fisherman’s initial aims were to secure the waters from local 
+competition and ensure their continued prosperity in the fishing industry. However, “the 
+success of these early raids in the mid-1990s persuaded many young men to hang up their 
+nets in favor of AK-47s” (Stuhldreher, 2008, p. 1). The fisherman eventually teamed up 
+with militiamen and local businessmen interested in profiting from the handsome 
+bounties paid by the shipping companies. The illegal fishing problem is a source of 
+disappointment and anger for many Somali people and the pirates capitalize on the local 
+population’s disdain for foreign fishing in their waters and use it to legitimize their 
+attacks. The Department for International Development (DFID) estimated that Somalia 
+lost nearly $100 million dollars from 2003-2004 due to illegal tuna and shrimp fishing in 
+the country’s economic exclusive zone (Ploch et al., 2009). 
+Furthermore, it is suggested that Asian and European companies have exploited 
+Somali’s political instability by signing contracts with non-recognized government 
+entities enabling them to dump toxic chemicals into the waters in the region. The United 
+Nations Environmental program (UNEP) reported a storm had washed up rusting barrels 
+containing toxic chemicals onto the shores of Somalia. A United Nations (UN) envoy 
+
+
+--- Page 42 ---
+ 
+ 
+25
+reported to Al-Jazeera that European and Asian countries signed dumping contracts with 
+the administration in the semi-autonomous region of Puntland and warlords in southern 
+Somalia (Al-Mutairi Abdulaziz, 2009). The official also stated, “Somalia has been used 
+as a dumping ground for hazardous waste staring in the early 1990s, and continuing 
+through the civil war there…what is most alarming here is that nuclear waste is being 
+dumped…radioactive uranium waste that is potentially killing Somalis and completely 
+destroying the ocean” (Al-Mutairi Abdulaziz, 2009, p. 1). Libyan leader and African 
+Union chairman, Muammar Ghaddafi argues, “it [piracy] is a response to greedy western 
+nations who invade and exploit Somalia’s water resources illegally. It is not piracy it is 
+self defense. It is defending the Somali children’s food….Somalis are reacting for justice 
+and trying to defend their country against exploitation of resources” (Anonymous, 2009, 
+p. 1). 
+The two theories suggest that piracy stems from a lack of social welfare and 
+governance associated with a successful state. The absence of an authority figure or body 
+of oversight allows for the exploitation of Somalia’s water resources and promotes a 
+dysfunctional social system on land. This combination drives Somali’s to commit crimes 
+on the high seas. Whether it is justified as self defense or a desperate measure to support 
+groups economic well being it is still a criminal activity and must be treated as such. 
+“The international Contact Group on Piracy off the Coast of Somalia (CGPCS) stated at 
+its inaugural meeting that piracy is symptomatic of the overall situation in Somalia 
+including the prevalence of illegal fishing and toxic waste dumping off the coast of 
+Somalia, which adversely affects the Somali economy and marine environment” (Ploch et 
+al., 2009, p. 7). Prince Saud Al-Faisal, of Saudi Arabia said: "Piracy, like terrorism, is a 
+disease which is against everybody, and everybody must address it together" 
+(Glendinning & Rice, 2008, p. 1).  
+D. 
+PIRATE NETWORKS 
+In order to effectively disrupt pirate organizations it is extremely important to 
+understand how the networks operate and their organizational structures. Current open 
+source intelligence suggests pirate networks operate in ways similar to what the Federal 
+
+
+--- Page 43 ---
+ 
+ 
+26
+Bureau of Investigation (FBI) describes as organized crime. Organized crime, as opposed 
+to ordinary gangs, terrorist groups, or guerilla organizations, is defined as “any group 
+having some manner of a formalized structure and whose primary objective is to obtain 
+money through illegal activities. Such groups maintain their position through the use of 
+actual or threatened violence, corrupt public officials, graft, or extortion, and generally 
+have a significant impact on the people in their locales, region, or the country as a whole” 
+(Federal Bureau of Investigation, 2008). The evidence suggests Somali pirates operate in 
+the same manner as traditional organized crime networks in that they: (1) are financially 
+motivated; (2) receive support from local government officials; (3) utilize violence or the 
+threat of violence to further their objectives; and (4) have a significant impact on the local 
+populace.  
+The actual organization of the groups, including their social hubs, nodes, and 
+links, and how the groups communicate socially, proves much more difficult to assess. A 
+Danish Institute for International Studies report notes that there is actually very little 
+known about the specific motives of the pirates, and even less known about the social 
+structure of the pirate networks (Moller, 2009a). Most of the difficulty in assessing the 
+social structures of pirate networks is due to the lack of intelligence and information 
+available regarding the internal affairs of the area in which pirates operate and the 
+networks and clans from which they emerge. In fact, Stig Hansen, an expert on Somalia, 
+describes it as a “black hole when it comes to information” (p. 2). This lack of knowledge 
+proves extremely problematic in attempting to identify the networks size, leadership, and 
+other organization characteristics; however, an attempt will be made to describe the 
+network based on the analysis of several intelligence and news sources. 
+Consistent with the FBI’s definition of an organized criminal enterprise, pirate 
+networks are financially motivated. It can be easily assessed that prospective pirates 
+perform a simple cost benefit analysis when they consider joining a pirate network. 
+Somalia is one of the world’s poorest countries, with up to 73% of the population living 
+on less that $2 a day (United Nations World Food Programme). Therefore, the prospect 
+of a financial reward totaling in the millions of dollars provides the incentive for Somalis 
+who join pirate gangs, “whose wealth and strength often make them part of the local 
+
+
+--- Page 44 ---
+ 
+ 
+27
+social and economic elite,” to pursue a career in commercial ship piracy (Hunter, 2008, p. 
+1). The pirates are willing to assume the risk of capture or being killed in exchange for 
+the chance at a monetary reward that will enable them to live in luxury relative to the rest 
+of the Somali population. A successful raid on a merchant ship can net a pirate many 
+thousands of dollars after the ransom is split between all actors involved in the attack. A 
+memo prepared by the U.S. House of Representatives Armed Services Committee in 
+early March 2009 said of Somali piracy, “it is very much a business…one captured pirate 
+explained how the ransom – on average $1 million to $2 million per boat – is divided 
+among participants. Twenty percent goes to the bosses of the group, 20 percent is capital 
+investment, to include guns, ammunition, fuel, food, cigarettes, and other provisions for 
+future missions, 30 percent in bribes to government officials” (Associated Press, 2009a). 
+Once a group of pirates achieves success and reaps the financial reward it is very difficult 
+to infiltrate and break up because as BBC reporter, Ahmed Mohamed Ali explains, the 
+pirates run a tight operation that has little infighting because “the promise of money 
+keeps them together” (Hunter, 2008, p. 1). 
+Also consistent with the FBI’s definition of organized crime are the involvement 
+of corrupt public officials and the use of graft and extortion to further the objectives of 
+the network. A number of open sources suggest that public officials in the “small, distinct 
+port towns,” harboring pirates are woven into the pirates’ framework (Ploch et al., 2009, 
+p. 8). These local and regional officials provide the support necessary for pirates to carry 
+out the attacks and ensure the gangs are free from the prospect of prosecution or capture 
+on land.  
+Two of the primary groups involved in recent attacks are a network based in the 
+Puntland region district of Eyl and a network based in the Mudug region district of 
+Harardera (Xarardheere) (Ploch et al., 2009, p. 8). It is also reported that several smaller 
+groups operate from the Somali ports of Bosaso, Qandala, Caluula, Bargaal, Hobyo, 
+Mogadishu, and Garad (Ploch et al., 2009, p. 8). The group operating out of Puntland, 
+home of the Darod clan (Nicoll & Johnstone, 2009) and one of Somalia’s poorest areas, 
+is recognized as one of the most problematic networks (Middleton, 2008, p. 5).  It is in 
+this region where speculation abounds regarding the involvement of public officials in 
+
+
+--- Page 45 ---
+ 
+ 
+28
+piracy. The pirates “rely on a local network of corrupt officials and villagers eager for 
+money in a region with no real economy...rogue security and government officials there 
+allow the pirates to use ports and move freely around towns while they restock ships” 
+(Hassan & Kennedy, 2008, p. 1). Given the number of people involved in the industry, it 
+has become a “mainstay of the Puntland economy” (Harper, 2008, p. 1). BBC News notes 
+“the coastal region of Puntland is booming,” and the prospect of sharing in the profits 
+brings many to Eyl after a hijacking (Harper, 2008, p. 1). It also provides the motivation 
+for those who support and tolerate piracy in the region.  
+In addition, “the Office of the UN General Secretary Ban Ki-Moon accused the 
+administration of semi-autonomous region in North-East Somalia called Puntland for 
+sponsoring piracy” (Al-Mutairi, 2009a, p. 1). Some even suggest the President of the 
+region, President Abdullahi Yusuf is involved in pirate activities. As one expert said, 
+“money will go to Yusuf as a gesture of goodwill to a regional leader – so even if the 
+higher echelons of Somali government and clan structure are not directly involved in 
+organizing piracy, they probably do benefit” (Middleton, 2008, p. 5). Additional 
+suspicious circumstances tying President Yusuf to pirate operations is involvement of his 
+cousin in previous pirate activities and a shootout regarding pirate money that occurred in 
+Garrowe, the capital of Puntland in March 2005 (Hansen, 2006, p. 13). With the help and 
+support of these government co-conspirators the “pirates operate across Puntland freely, 
+which shows the support they get from the administration…they are treated as heroes. 
+One of the pirates, Liban Omer, said that pirating is very much common in Puntland and 
+even police are pirates” (Al-Mutairi, 2009b, p. 1).  
+It is also clear that pirate organizations utilize violence or the threat of violence to 
+maintain their position of power. The most common tactic of pirates is to harass their 
+target vessel with small arms and rocket propelled grenade (RPG) fire aimed towards the 
+wheelhouse in order to force the ship to bare steerageway or stop. This enables the pirates 
+to board the ship and seize control. These armed takeovers are extremely dangerous to 
+the crew and sometimes volatile cargo onboard the ship. The weapons utilized in these 
+attacks are becoming increasingly more dangerous. “Five to six years ago, when pirates 
+attacked, they used machetes, knives, and pistols. Today they come equipped with AK-
+
+
+--- Page 46 ---
+ 
+ 
+29
+47s, M-16s, rifle grenades, and RPGs” (Chalk, 2008, p. 14). These weapons originate in 
+the black markets of Africa, Asia, and Europe and the ready access to them is making the 
+pirates evermore bold and violent (Chalk, 2008). The proliferation of these weapons and 
+the intimidation they provide towards shipping crews and local populace enables the 
+pirates to maintain their dominant position in the region as is true with organized crime 
+syndicates.  
+Regarding the FBIs assessment of organized crime affecting the local populace, 
+piracy has definitely done so in the small port towns they operate from. The pirates’ 
+economic success has had both positive and negative effects on the population in 
+Puntland and other areas with operating gangs.  Moreover, the pirates “seem to enjoy a 
+certain fame and popularity in their respective communities” (Moller, 2009a). Although 
+the pirate’s on-shore spending has had positive effects on the economic situation in 
+certain regions, bringing jobs and transforming areas into “veritable boomtowns”, there 
+has been criticism as well.  One resident of Eyl said, “this piracy has a negative impact on 
+several aspects of our life in Garowe,” noting an escalating lack of security due to 
+“hundreds of armed men” who come to join the pirates and the growing use of drugs and 
+alcohol attributed to the pirate. (Harper, 2008, p. 1). Life is also made more expensive for 
+ordinary Somalis because of the fluctuations in exchange rate due to the United States 
+dollars being introduced into the economy (Hunter, 2008). In fact, the price of a kilogram 
+of Khat, the drug of choice for many young people in Somalia, has increased over tenfold 
+in the past two years (Nicoll & Johnstone, 2009). The inflationary effects of the ransom 
+money are causing Somali’s not involved in piracy financial hardships and making their 
+lives increasingly difficult.  
+The size of pirate organizations is also relatively unknown, however estimates put 
+the number of pirates in the thousands, and the East African Seafarers’ Association and 
+the House Armed Services Committee agree that there are at least five well-organized 
+pirate groups conducting most of the attacks in Somalia (Associated Press, 2009a).  Most 
+of the gangs are comprised of young men ages 15–25 years old that are recruited from 
+“large provincial clans, which are extended family networks that divided themselves into 
+smaller sub-clans” (Associated Press, 2009a, p. 1). The composition of these clans 
+
+
+--- Page 47 ---
+ 
+ 
+30
+usually includes: (1) local fishermen, who are considered the brains of the operation, and 
+have the skill and knowledge of the sea; (2) ex-militiamen, who previously fought for the 
+local clan warlords and provide the muscle; and (3) technical experts that operate the high 
+tech equipment for the cells, such as satellite phones and GPS units (Hunter, 2008).  
+In addition to the actual pirates themselves, there exists a sophisticated 
+“international network that feeds information from ports in the Gulf, Europe and Asia 
+back to Somalia” (Middleton, 2008, p. 3). The support networks are mostly informal, 
+existing along family or clan lines (Hassan & Kennedy, 2008). These co-conspirators 
+provide anything from financial support, shipping information, and logistical support to 
+weapons, marketing of stolen goods, money exchange, and housing and food for the 
+captured sailors aboard pirated vessels. In exchange, the investors receive a portion of the 
+ransom monies received by the pirates. Michael Weinstein, a Somalia expert at Purdue 
+University said of the network, “the Somali diasporas all around the world now have 
+taken to this business enterprise…it resembles a syndicate where you buy shares, so to 
+speak, and you get a cut of the ransom” (Hassan & Kennedy, 2008, p. 1). 
+Disruption of the pirate organizations requires an understanding of how the 
+groups operate and organize. Operationally, pirate networks closely resemble what the 
+United State Federal Bureau of Investigation describes as organized crime. The pirates 
+groups are financially motivated; involve corrupt local government officials; utilize 
+violence or the threat of violence to maintain their position; and have a significant impact 
+on the local populace. Organizationally, pirate networks are most likely composed of five 
+large gangs, totaling nearly 1,000 operatives. These gangs are supported by a large, 
+international support network stretching from Africa to North America (Hassan & 
+Kennedy, 2008). The analysis and understanding of this information provides further 
+insights on how pirate networks may be disrupted and eliminated using trust and 
+influence techniques. 
+E. 
+CONCLUSION 
+This chapter provided the reader with a brief overview of the history of Somalia, 
+its people, and their governments. In addition, open source information was used to 
+
+
+--- Page 48 ---
+ 
+ 
+31
+describe the operational and organizational structures of pirate networks. The purpose of 
+these descriptions was to provide insights on where trust and influence operations can be 
+injected to disrupt pirate networks. These techniques are described in Chapter IV and 
+utilize information outlined in this chapter. 
+
+
+--- Page 49 ---
+ 
+ 
+32
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 50 ---
+ 
+ 
+33
+III. 
+CURRENT AND PROPOSED SOLUTIONS TO SOMALI 
+PIRACY AND THEIR ASSOCIATED LIMITATIONS 
+A. 
+INTRODUCTION 
+The United States and the international community have adopted a wide range of 
+defensive responses to the piracy in the Gulf of Aden; however, none of these responses 
+address root causes that allow piracy to flourish. According to piracy experts Roger 
+Middleton and Stephanie Hanson, there are several options available to the international 
+community to combat the symptoms piracy. Current and proposed solutions include: (1) 
+establishing a naval presence; (2) establishing a coastguard for Somalia; (3) utilizing 
+onboard deterrents and shipboard countermeasures (Hanson, 2009, p. 2); (4) instituting 
+regional anti-piracy patrols; (5) paying no ransoms; (6) and doing nothing (Middleton, 
+2008, p. 11). A number of these methods are presently utilized and many have been 
+attempted in the past, however, they have failed to disrupt or deter pirate attacks. This 
+chapter seeks to summarize the aforementioned methodologies for preventing pirate 
+attacks, their limitations, and the reasons they have not been successful.  
+B. 
+THE ESTABLISHMENT OF A NAVAL PRESENCE 
+Since January 2009, more than a dozen countries including Russia, France, the 
+United Kingdom, India, China, and the United States deployed warships to the Gulf of 
+Aden to combat piracy. All told, nearly thirty warships were patrolling an area of nearly 
+2.5 million square miles in an attempt to protect commercial vessels, their cargo, and the 
+nearly 12% of annual crude oil shipments that passes through the region (Hanson, 2009). 
+The naval presence was initiated to deter piracy in support of United Nations (UN) 
+Resolutions 1814, 1816, 1838, and 1846, which were adopted by the United Nations 
+Security Council in 2008 (European Union, 2008). The efforts include Coalition Task 
+Force 150 (CTF 150), the European Union (EU) naval operation against piracy (EU 
+NAVFOR Somalia), and Coalition Task Force 151 (CTF 151). 
+
+
+--- Page 51 ---
+ 
+ 
+34
+United Nations Security Council Resolutions (UNSCR) 1814, 1816, 1838, 1846, 
+and most recently 1851 set the stage for the current anti-piracy efforts in the Gulf of 
+Aden. Resolution 1846 (2008) declared that “during the next 12 months States and 
+regional organizations cooperating with the Somali Transitional Federal Government 
+(TFG) may enter Somalia’s territorial waters and use ‘all necessary means’ – such as 
+deploying naval vessels and military aircraft, as well as seizing and disposing of boats, 
+vessels, arms and related equipment used for piracy – to fight piracy and armed robbery 
+at sea off the Somali coast, in accordance with relevant international law” (United 
+Nations, 2008a, p. 1). Resolution 1851 expanded upon UNSCR 1846 by allowing those 
+countries involved in anti-piracy operations to “undertake all necessary measures 
+appropriate in Somalia, to interdict those using Somali territory to plan, facilitate or 
+undertake such acts,” allowing member nations to pursue pirates onto the shores of 
+Somalia (United Nations, 2008b, p. 1). 
+The naval phase of anti-piracy operations began in August 2008, when the 
+operational commander of Coalition Task Force 150 (CTF 150), Canadian Commodore 
+Bob Davidson, established “a Maritime Security Patrol Area (MSPA) to act as a 
+protected sea lane through which commercial vessels could enjoy the protection of these 
+warships and their air assets” (Lennox, 2008, p. 12). The naval assets were intended to 
+escort commercial vessels along a standard route, which would deter pirates through the 
+show of force and make it easier for international forces to respond to distress calls 
+(Middleton, 2008, p. 10). However, “preliminary data indicates the pirate success rate for 
+hijacking is only slightly lower inside the MSPA than outside” (National Security 
+Council, 2008, p. 8). 
+Shortly after the MSPA was established and the arrival of CTF 150, the European 
+Union dispatched a military contingency to the area under the auspices of EU NAVFOR 
+Somalia – Operation Atalanta. Operation Atalanta’s aim is to “protect the vessels of the 
+World Food Programme (WFP) delivering food and aid to displaced persons in Somalia; 
+provide protection for merchant vessels; employ the necessary measures, including the 
+use of force, to deter prevent and intervene in order to bring an end to acts of armed 
+robbery and piracy” (European Union, 2008). The EU operation is scheduled to last for 
+
+
+--- Page 52 ---
+ 
+ 
+35
+12 months with support expiring in December 2009. At the time of this writing, no 
+further plans have been established to extend the mission, which places the security of 
+WFP delivery ships at risk of attack.   
+In January 2009, Coalition Maritime Forces stood up Combined Task Force 151 
+to “act as a separate maritime command from CTF 150 for the Red Sea – Gulf of Aden – 
+Arabian Sea region with a mandate focused solely on counter-piracy operations” 
+(Lennox, 2008, p. 12). CTF 151 is comprised of 20 warships and an assortment of air 
+assets including helicopters, Unmanned Aerial Vehicles (UAV), and fixed wing aircraft, 
+all tasked with patrolling the region and providing security for commercial shipping 
+vessels (Lennox, 2008). Naval analysts suggest “that the new task force will allow the 
+United States to seek a non-Western approach to counter piracy by partnering with 
+Eastern navies,” which may increase the legitimacy of the mission in the eyes of the 
+global community and highlight piracy as an international issue, not solely a burden for 
+western nations (Hanson, 2009, p. 2). 
+The establishment of a naval presence has been marginally successful at deterring 
+pirate attacks. While it has almost certainly made target selection more difficult for 
+pirates, and statistically has reduced the number of attacks by 22% from August to 
+October 2008 (Hanson, 2009) (some attribute the decrease in attacks to rough seas and 
+bad weather rather than the increased naval presence) (Wadhams, 2009), there are 
+numerous limitations to suppressing piracy with a naval presence.  
+First, and foremost, the threat area for piracy extends nearly 2.8 million square 
+kilometers. The naval assets required to effectively police such an area is well beyond the 
+scope of any assets pledged by the Coalition Maritime Forces. Furthermore, it has been 
+suggested that the establishment of the MSPA makes the targeting of commercial vessels 
+easier for pirate vessels. A senior naval commander explained, “The pirates will just 
+change their tactics…and it fails to reduce the danger for ships steaming north-south 
+rather than east-west” (Middleton, 2008, p. 10). The successes of the November 2008 
+hijacking of a Saudi oil supertanker and the April 2009 hijacking of the U.S. flagged 
+Maersk Alabama highlight the limitations and difficulties associated with policing such a 
+large body of water with a relatively small force. Additionally, supplying such a large 
+
+
+--- Page 53 ---
+ 
+ 
+36
+force is prohibitively expensive and possibly disproportionate relative to the monetary 
+costs associated with piracy in the region. The international community, especially the 
+United States and the European Union, are expending exhorbent amounts of resources on 
+a problem that takes root inside of Somalia. 
+Furthermore, current anti-piracy efforts are defensive in nature. “Somali pirates, 
+unless they are caught in the midst of a hijacking, are not fired upon, nor are they being 
+attacked in their home ports. Warships are being used for the purpose of protecting 
+commercial vessels in the region from attack; they are not attacking the pirates 
+themselves” (Lennox, 2008, p. 13). The main reason behind a defensive stance and 
+limited engagement is the “international human rights regime” (Lennox, 2008, p. 13). 
+The human rights activists make it extremely difficult for Western nations and their allies 
+to take kinetic action to kill pirates, destroy their vessels and equipment, and deny them 
+safe haven. The demands for an internationally recognized fair trial for pirate suspects, 
+even though a venue may not exist for such action, has made the prosecution of pirates 
+extremely difficult.  
+An additional limitation of a naval presence is the Somali pirates do not fear death 
+or capture. Death and violence are an integral part of their lives and piracy provides a 
+means to gain a significant economic advantage over their peers with nearly the same risk 
+of dying as remaining on the streets of their homeland. Abdi Timo-Jile, a pirate from the 
+central city of Garowe, said of the anti-piracy effort, “we people are not afraid. There is 
+death every day” (Wadhams, 2009, p. 1). Hence, a large naval force is unlikely to deter 
+criminals who are desperate for money and have been exposed to violence and death all 
+of their lives. 
+A naval response only serves to treat symptoms of a problem that is rooted on 
+land. Martin Murphy describes the response as “the least efficient and cost-effective form 
+of piracy suppression” (Murphy, 2009, p. 3). A more suitable response should seek to 
+address the problem’s cause or disrupt it at its core. Most experts agree that once the 
+navies exit the area, “it is likely that piracy will surge again, particularly if Somali 
+remains unstable” (Hanson, 2009, p. 2). 
+
+
+--- Page 54 ---
+ 
+ 
+37
+C. 
+ESTABLISHING A SOMALI COAST GUARD 
+It has been suggested that Somalia establish a Coast Guard to combat piracy. 
+Roger Middleton states, “Navies are not designed for dealing with criminals, they are 
+designed for fighting wars…in the absence of a police force inside Somalia, this may be 
+the best way of doing it” (Hanson, 2009, p. 2). The force would be responsible for 
+patrolling the waters off the coast and protecting the country’s water resources from 
+illegal activity. In theory, an indigenous coastal patrol force sounds like a viable solution 
+to the piracy problem; however, when one considers the ongoing political and economic 
+turmoil inside the country, the idea becomes tremendously challenging. It is extremely 
+unlikely the Transitional Federal Government (TFG) could financially support such a 
+force nor could it protect those brave enough to take on the duty of becoming 
+coastguardsmen. An external international governing body such as the United Nations 
+(UN) or the African Union (AU) would have to run the organization due to the 
+weaknesses associated with the TFG. Moreover, a Somali Coast Guard would require 
+external funding, possibly generated by fishing revenues or provided by international 
+shipping companies. Companies may be unwilling to provide the financial support 
+necessary for such a large endeavor, and the TFG could certainly not afford it on its own 
+(Middleton, 2008). 
+The idea of establishing a Somali Coast Guard may be too progressive at the 
+current moment due to the instability of the country. It would be very difficult to “find 
+qualified individuals within Somalia and to determine how to hand over such a body to 
+the Somali government” and find an international body willing to support such a difficult 
+task, thus leaving it susceptible to failure and corruption as is typical with Somali 
+government establishments (Hanson, 2009, p. 3). 
+D. 
+THE UTILIZATION OF ONBOARD DETERRENTS AND SHIPBOARD 
+COUNTERMEASURES 
+International shipping companies have taken internal measures to prevent the 
+hostile takeover of their vessels. These measures include active and passive security 
+measures. Active measures include utilizing “rudimentary devices such as fire hoses, 
+
+
+--- Page 55 ---
+ 
+ 
+38
+deck patrols, or even carpet tacks to repel pirates…or more sophisticated means such as 
+nonlethal electric screens or fences with loudspeaker systems that emit a pitch so painful 
+it keeps the pirates away” (Hanson, 2009, p. 2). Passive measures, as recommended by 
+the United States Countering Piracy off the Horn of Africa Partnership and Action Plan 
+include: operating at the fastest speeds possible; changing course repeatedly and 
+conducting nighttime transits; modification of vessel structures to preventing or delaying 
+pirates from gaining vessel control if boarded; conducting training and certifications for 
+professional shipboard security consultants and third party security providers; 
+encouraging the embarkation of unarmed, certified consultants to provide intelligence 
+reports, night vision equipment and non-lethal security force; and paying careful attention 
+to warnings and areas where attacks are prevalent (National Security Council, 2008).  
+There are many limitations regarding onboard deterrents and shipboard 
+countermeasures including: cost – deterrents such as acoustic emitters and ship structure 
+modifications are extremely expensive; crew incentive – there is a lack of incentive for 
+the crewmembers to be proactive since in most cases pirates pose little threat to the crew; 
+legal and ethical issues – shipping companies are hesitant to arm their crews due to the 
+dangers associated with firearms onboard ship, insurance restrictions, and maritime and 
+territorial laws preventing firearms onboard ships. In addition, the use of these devices 
+and tactics may only further embolden pirates and put ship crews at greater risk of 
+retribution. Further, this type of tactic is strictly defensive in nature and does not address 
+affect the ability of pirates to conduct future attacks. 
+E. 
+INSTITUTING REGIONAL ANTI-PIRACY PATROLS 
+Experts have suggested the creation of a regional anti-piracy task force led by 
+Middle Eastern and Eastern African countries. The task force patrols would cover the 
+coast of Somalia and the Gulf of Aden and would attempt to accomplish the same tasks 
+as the Coalition Maritime Forces currently operating in the area. (Hanson, 2009, p. 2) 
+These experts propose that “such patrols could be modeled on those that the navies of 
+Indonesia, Malaysia, Singapore, and Thailand conducted in the Malacca Strait” (Hanson,  
+ 
+
+
+--- Page 56 ---
+ 
+ 
+39
+2009, p. 2). In addition, the group suggested the creation of a regional counter piracy 
+coordination center, much like the one that exists in Southeast Asia that is credited  
+with reducing piracy attacks (Hanson, 2009). 
+This solution utilizes a methodology similar to the UN mandated Maritime 
+Coalition that is currently operating in the area and is subject to many of the same 
+shortcoming and limitations associated with it. In addition, the proposition that it will 
+have similar effects to the Southeast Asian effort may be presumptuous. The area in 
+which the Southeast Asian cooperative operates is much smaller and more constrained 
+and the countries involved possess significantly more resources than those of Eastern 
+Africa. Furthermore, a regional security cooperative assumes the countries involved are 
+provided an incentive for participating and are willing to work together to solve the 
+problem. While the monetary incentive exists, the willingness and ability to form a 
+functioning cooperative between East African and Middle Eastern countries and the 
+availability of the necessary resources to do so come into question. Many East African 
+countries such as the Sudan, Eritrea, Ethiopia, and Kenya are suffering from their own 
+economic and political problems and may not be willing to take on the additional burdens 
+of anti-piracy. 
+F. 
+PAYING NO RANSOMS 
+Discontinuing or denying pirates request for ransom payments has been suggested 
+by a number of international shipping companies (Middleton, 2008). This approach 
+would, in theory, decrease the incentive to participate in pirate activities. However, as 
+Middleton points out, there are two problems associated with this propositions: (1) 
+Pirates would continue to attack commercial vessels and copy the tactics used in 
+Indonesia and other places, and would look not to ransoms for the economic incentive, 
+but to the hijacked vessel itself. The pirates would steal the vessel, re-register it, creating 
+a phantom ship, and then use the ship to carry new cargo and subsequently steal it. (2) If 
+shipping companies discontinue the payments, it could result in the execution of hostage 
+crew members and lead to a further escalation in violence (Middleton, 2008). Paying no 
+ransoms is not a feasible solution to the Somali piracy problem. It would only seek to 
+
+
+--- Page 57 ---
+ 
+ 
+40
+exacerbate the situation or cause the pirates to alter their tactics and seek monetary gain 
+through some other means utilizing the hijacked vessels. It may even drive the pirates to 
+seek allegiances with extremist organizations to fill the monetary void left by cessation of 
+ransom payments.  
+ 
+G. 
+TAKING NO ACTION 
+The international community could choose to do nothing about the piracy 
+problem. As Chatham House’s Middleton states, “accepting the only real solution lies in 
+a political solution inside Somalia, the international community could calculate some 
+forty ships captured out of 16,000 is such a small number that the resources required to 
+protect them would be wasted” (Middleton, 2008, p. 12). However, this solution would 
+contradict the ideals that make the issue of piracy an issue of international concern such 
+as the potential for an environmental disaster, the linkage of pirates and Islamic 
+extremists, and the rise in prices of consumer goods and oil due to the increased shipping 
+costs brought on by insurance and ship seizures (Middleton, 2008). 
+H. 
+CONCLUSION 
+As evidenced by the continuation of attempted and actual hijackings in the 
+vicinity of Somalia and the Gulf of Aden, the current solutions to piracy have not been 
+effective. Additionally, several of the proposed solutions possess drawbacks thereby 
+limiting their efficacy. The major problem with the current solutions and alternative 
+suggestions is that the majorities of them are defensive in nature and do little to address 
+the actual roots of the problems, which stem from the political instability inside Somalia. 
+British Foreign Secretary Lord Palmerston, as quoted by Martin Murphy, referred to a 
+naval solution to slavery as “taking a wasp’s nest…is more effective than catching wasps 
+one by one” (Murphy, 2009, p. 3). For all intensive purposes the current solutions are 
+attempting to do just that, catch the pirates one a time, until the problem ceases to exist. A 
+more effective solution would target the problem on shore and attempt to break up the 
+pirate networks. The utilization of trust and influence techniques carefully inserted into 
+the organizations and their support networks could potentially achieve success where 
+previous methods have failed. 
+
+
+--- Page 58 ---
+ 
+ 
+41
+IV. 
+UNDERMINING TRUST TO COMBAT PIRACY 
+A. 
+INTRODUCTION 
+This chapter provides an overview of the concept of trust and its importance in 
+Somali pirate networks. It introduces approaches to disrupt or undermine Somali piracy 
+by exploiting the trust necessary for this type of organization to operate. These 
+approaches are based upon the analysis of the Somali piracy problem conducted in 
+Chapters II and III and on operations that have been successful at disrupting criminal 
+organizations in the past. The methods of disruption discussed here seek to disrupt the 
+command and control structures of the networks or increase the uncertainty regarding 
+trust-based relationships needed to support the organization. 
+B. 
+THE IMPORTANCE OF TRUST IN PIRATE NETWORKS 
+Trust, as defined by Piotr Sztompka (1999), “is a bet about the future contingent 
+actions of others” (p. 25). Sztompka argues it is an essential element when faced with an 
+uncertain or uncontrollable future and allows one “to act in spite of uncertainty and risk” 
+(Sztompka, 1999, p. 25). Organized criminal organizations, such as the Mafia or a 
+network of Somali pirates, operate in an environment where the consequences and risks 
+associated with their illegal actions are extremely high. Actors within these organizations 
+face risks such as prosecution or violence in order to carry on their criminal enterprises. 
+Furthermore, there are numerous uncertainties involved in their illegal activity. For 
+example, traitors may be working with the authorities to reveal the illegal actions of their 
+co-conspirators or taking actions that benefit themselves at the expense of their 
+associates. For this reason, the actors in this type of organization must rely upon trust to 
+ensure their co-conspirators are acting to carry out explicit or implicit agreements 
+towards the goals of the organization. These actors must be willing to bet that the future 
+actions and intentions of their associates correspond with the goals and objectives of the 
+organization as a whole. Any deviation from the standard operating procedures or agreed 
+upon actions may result in negative consequences for the individual or the organization. 
+
+
+--- Page 59 ---
+ 
+ 
+42
+The extent to which this trust manifests itself throughout the network as a whole or 
+between specific individuals and groups may vary based on past actions or one’s position 
+within the organization; however, the concept of trust must exist to some extent for the 
+organization to achieve its objectives.  
+Sztompka (1999) also argues that contemporary societies are heavily reliant on 
+trust to function and there are “unique features of contemporary societies that give 
+particular salience to the problematics of trust” (Sztompka, 1999, p. 11). He suggests that 
+the increased complexity in contemporary networks due to globalization and the 
+proliferation of technology increases the need for society to rely on trust to function. He 
+presents a general framework regarding the role of trust in a contemporary society and 
+suggests there are unique features of contemporary society that make trust essential 
+including: increased interdependence; the pervasiveness of technology and development; 
+ever-increasing opportunities and options available to people; and the increased opacity 
+of organizations (Sztompka, 1999).   
+Just as society has evolved and become increasingly complex so have smaller 
+sub-sets of the society. One of those subsets is that of the Somali pirates. As the 
+phenomena of Somali piracy grew from a few local warlords acting to secure Somalia’s 
+water resources from illegal foreign activity to a sophisticated global network of co-
+conspirators and supporters, the pirates, like society as a whole, became an increasingly 
+complex entity. In order to stress the importance of the manifestation of trust within 
+Somali pirate networks, it is useful to apply Sztompka’s general theory on the unique 
+features of trust in contemporary societies to pirate networks. 
+1. 
+Increased Interdependence 
+As discussed in Chapter II, the Somali pirates have managed to weave a global 
+web of co-conspirators and supporters who are interested in benefitting from the ransoms 
+generated by piracy in the Horn of Africa. This global support network provides the 
+monetary, material, and informational support necessary for the pirates to carry out their 
+attacks. The pirates heavily rely upon the division of labor provided by this large network 
+of individuals involved in piracy, and as Sztompka (1999) suggests this “division of labor 
+
+
+--- Page 60 ---
+ 
+ 
+43
+increases the vulnerability to others’ failures to fulfill their responsibilities…and as our 
+dependence on the cooperation of others grows, so does the importance of trust in their 
+reliability” (p. 12).  
+2. 
+The Pervasiveness of Technology and Development 
+The analysis of modern day piracy also revealed that pirates place an increasing 
+reliance on technology to carry out their operations. They routinely use Global 
+Positioning System (GPS), satellite phones, and sophisticated money counting machines 
+to aid in the planning and execution of the attacks. Richard Stivers, author of The Culture 
+of Cynicism, as quoted by Sztompka (1999), says of the ubiquity of technology, “the 
+complex interactions of technology as they bear upon nature and society create an ever 
+larger number of unintended consequences…apart from their uncontestable benefits, have 
+also produced vast possibilities for disastrous failures, as well as harmful side effects” (p. 
+13). The increasing social and technological complexity increases the probability of 
+failure and “coping with that raised vulnerability in the risk society requires an enlarged 
+pool of trust” (Sztompka, 1999, p. 13). 
+3. 
+The Increasing Number of Options in all Aspects of Life 
+The increased scope and number of individuals involved in pirate operations also 
+adds to the number of options or choices available to all actors in the organization. Along 
+with this increasing number of options or alternatives available to actors within these 
+organizations comes the need for increased reliance on trust (Sztompka, 1999).  Gambetta 
+says of this phenomena, “trust becomes increasingly salient for our decisions and actions 
+the larger the feasible set of alternatives open to others” (Sztompka, 1999).  
+4. 
+The Increased Opacity of Organizations 
+Contemporary Somali pirate organizations also face what Sztompka refers to as 
+organizational opacity. When an institution, organization, or technological system 
+becomes more complex and global, they become “impenetrable to ordinary people” 
+(Sztompka, 1999, p. 13). People no longer have an intimate knowledge of the persons or 
+
+
+--- Page 61 ---
+ 
+ 
+44
+entities they rely on to make important decisions necessary for everyday life. “More often 
+than ever before we have to act in the dark, as if facing a huge black box, on the proper 
+functioning of which our needs and interests increasingly depend. Trust becomes an 
+indispensible strategy to deal with the opaqueness of our social environment. Without 
+trust we would be paralyzed and unable to act” (Sztompka, 1999, p. 13).  
+By applying Sztompka’s general theory of unique features of trust in 
+contemporary society to pirate organizations, it becomes apparent that trust is an essential 
+element in their operations. As the Somali pirate networks have become more 
+sophisticated and spread globally, they must place a heavier reliance on the actions of 
+individuals and technological systems. Individual actors may or may not possess 
+firsthand knowledge of the individuals in their support networks and therefore must rely 
+on trust to ensure that activities are carried out as necessary. They must bet that the future 
+actions of their co-conspirators coincide with the interests of the organization as a whole.  
+For the purposes of this thesis, the interest lies in undermining the trust that 
+Somali pirates place in their support networks or purposefully injecting clues that create 
+distrust within the pirate organizations. Sztompka (1999) defines distrust as, “the 
+negative mirror image of trust. It is also a bet, but a negative bet. It involves negative 
+expectations about the actions of others” (Sztompka, 1999).  Because these negative 
+expectations or actions conflict with the interests and objectives of the organization or 
+network as a whole, they interfere with the networks’ ability or capacity to operate. In 
+order to inject the information necessary to create distrust, it is necessary to use 
+communication channels provided by the network.  The increasing scope and complexity 
+of pirate operations has left a large number of channels open for exploitation. 
+C. 
+TRUST AND INFLUENCE TECHNIQUES TO DISRUPT SOMALI 
+PIRACY 
+The techniques described below seek to degrade the Somali pirates’ operational 
+and organizational capacities by undermining the trust-based relationships necessary for 
+the network to function, thereby impeding their abilities to conduct attacks.  These 
+techniques were generated based upon examples of disruption techniques that have been 
+
+
+--- Page 62 ---
+ 
+ 
+45
+successful at disrupting criminal organizations in the past or through the historical 
+analysis of the piracy problem conducted in Chapter II. Unlike the current efforts to 
+combat piracy these solutions seek to disrupt piracy at the roots of the organization rather 
+than treating symptoms of the problem. 
+1. 
+Undermine the Trust between Pirates and the Somali Population 
+The relationship between the Somali pirates and the general populace in which 
+they reside is extremely important. As noted in Chapter II, in pirate towns such as Eyl 
+and Garowe, the pirates depend on the local populace to provide support and services for 
+their operations. The populace provides food and shelter for the pirates and their 
+hostages. In addition, their silence and lack of cooperation with the TFG and anti-piracy 
+forces regarding pirate operations provides protection for pirates. The cooperation with 
+the pirates makes the general populace an integral part of the pirate’s support network.  
+The pirates, in turn, place a large amount of trust in these citizens that directly or 
+indirectly support piracy. The pirates trust they will continue to provide the necessary 
+logistical support for continued operations and that they will not cooperate with 
+authorities to identify key members of the network. By applying Sztompka’s general 
+theory of trust in contemporary societies to pirates and the general population, the 
+following observations are noted: (1) the pirates rely on the increased interdependence 
+and division of labor provided by the general population; and (2) the increased number of 
+individuals creates an abundance of decision making options and sets of alternatives for 
+every actor in the network, thereby increasing the need for trust.  
+A successful strategy to undermine the trust between pirates and the Somali 
+population should influence the population to cease support activities, make decisions 
+contrary to the interests of the pirates, and possibly cause a public outcry of contempt 
+towards the criminals. But, as John Arquilla asks, “how do you attack a trust structure – 
+which is what a network is” (Garreau, 2001, p. 1) To begin undermining the trust within 
+the community, a method suggested by Arquilla and Ronfeldt (1996) is to “paint the 
+enemy with PR ugly paint so that they seem beyond the pale, ridiculous, alien, maniacal, 
+
+
+--- Page 63 ---
+ 
+ 
+46
+inexplicable” (Garreau, 2001, p. 6). By controlling the story, it is possible to delegitimize 
+the operations of a network and turn the general populace against the pirates. 
+However, the current story told by some of the local Somali media portrays the 
+pirates as heroic characters seeking to further the objectives of the Somali people. Most 
+sources note the pirates’ altruistic motives - protecting Somalia’s coastlines from illegal 
+fishing and toxic waste dumping and refer to the pirates by such names as the “National 
+Volunteer Coastguard” (Moller, 2009a). The local population is routinely told of the 
+millions of dollars brought into the local economies and how the money has invigorated 
+the local economy.  In addition, many sources note that the threats, damages and losses 
+due to piracy are greatly exaggerated. The media frequently mentions the humane, 
+civilized treatment afforded to their hostages and the high quality of food they are 
+provided. These messages detract from the fact that piracy is dangerous and criminal.  
+Additionally, as noted in Chapter II, the financial rewards generated by pirate 
+attacks have had a tremendous inflationary effect on the goods and services in the areas 
+where piracy flourishes. For example, the price of a kilogram of Khat, the drug of choice 
+for many young Somali men, has increased nearly tenfold in the past two years (Nicoll & 
+Johnstone, 2009). Further, the price of other goods and services has also increased to 
+reflect the influx of United States dollars and Euros into pirate towns making 
+consumables more expensive for ordinary Somalis living in the area. The fact that nearly 
+73% of Somalis live on less than two dollars per day and over one million rely on food 
+aid creates a large disparity between the living standards of the average person and the 
+pirates who live lavishly off the ransoms paid by shipping companies. 
+To counter the glorification of piracy, highlight the inflationary effects it causes, 
+and undermine the trust between the pirates and the general Somali population, a 
+coordinated effort by the Transitional Federal Government and the coalition of nations 
+involved in anti-piracy is necessary. The media campaign should utilize any means 
+necessary to highlight the negative aspects of piracy to the general population. Radio and 
+television broadcasts as well as pamphlets and fliers that could be dropped from airplanes 
+and placed in United Nations and USAID food shipments could be used to spread the 
+
+
+--- Page 64 ---
+ 
+ 
+47
+message to trash piracy. Efforts should be made to portray the pirates as what they 
+actually are – criminals that are creating more trouble than good for Somalis. 
+By controlling the story of piracy in the media, the anti-piracy coalition can 
+highlight the negatives piracy brings to the population and undermine the trust necessary 
+due to the division of labor and decision making options for those actors directly or 
+indirectly involved in piracy. Without public support, pirates will no longer be able to 
+sustain their operations. 
+2. 
+Undermine the Pirates Trust in Technology 
+As stated in Chapter II, pirate organizations are heavily reliant on technology and 
+the services provided by them to carry out their attacks. The pirates make frequent use of 
+Global Positioning System (GPS) to identify and track their targets; satellite 
+communications devices to reach back to leaders and those directing activities from 
+shore; and cellular and internet services to communicate within the organization and with 
+their global support networks. Sztompka’s general framework for trust in contemporary 
+societies says the integration of technology into society raises the risks and uncertainty 
+and leads to increased vulnerability. The vulnerability presented by dependency on such 
+devices provides an opportunity to disrupt or degrade the pirates’ command and control 
+capability and undermine the trust the pirates place on technological devices. 
+Sztompka (1999), when referring to the increased reliance on technology, writes,  
+“The principles and mechanisms of their operation are opaque and cryptic for the average 
+user. Trust in the multiplicity of abstract systems is a necessary part of everyday life 
+today” (Sztompka, 1999, p. 45). Sztompka’s assessment of the opacity of technology is 
+applicable to the pirates in that they trust the technological services they rely upon will be 
+available and be free from monitoring from authorities. However, due to the complex 
+nature of the devices they are using it is unlikely the pirates would be aware the 
+technological device had been compromised or bugged by authorities. By making the 
+pirates aware they are being monitored or preventing an attack by meeting them at a 
+proposed vessel gleamed from signal intelligence (SIGINT), it is possible to undermine 
+their trust in technology and force them to communicate by other means,  
+thereby reducing their capability to operate. 
+
+
+--- Page 65 ---
+ 
+ 
+48
+In order to begin to undermine the trust, the pirates place on technology, extensive 
+monitoring efforts should be undertaken. By monitoring, disrupting or denying 
+communications it might be possible to degrade the ability of the cells to operate. John 
+Arquilla, as cited in Garreau (2001) and referring to terrorist networks, says “I would 
+attack on the basis of their trust in the command and control structures by which they 
+operate...if they believe they are being listened to, they will be inhibited. If we were to 
+reduce their trust in their infrastructure, it would drive them to non-technical means – 
+force them to keep their heads down more... If you slow them down, interception is more 
+likely” (p. 4).  
+This type of monitoring has proven useful in disrupting the pirate network in the 
+past. At one time, the pirates utilized wire and money transfers to receive ransom monies. 
+However, due to the extensive monitoring and tracking efforts put in place by authorities, 
+money must now handed over directly (Hunter, 2008). The disruption caused increased 
+visibility of the network due to the person-to-person type transfers and allows authorities 
+to gain additional information about the activities of pirates. In addition, authorities are 
+now afforded the opportunity to place a tracking mechanism within the money to be 
+transferred. This might allow them to identify the exact location of pirate sanctuaries and 
+gain further information about the network, opening up the possibility of a kinetic strike 
+to destroy actors in the network. 
+3. 
+Undermine the Relationship between the United Islamic Courts (UIC) 
+and Pirates 
+The lack of a Somali central authority and pervasive social acceptability of 
+piratical actions imply that pirates are free to operate without fear of prosecution or 
+outside interference. However, in 2006 the freedom of action was interrupted when 
+Islamic militants from the United Islamic Courts (UIC) clashed with pirates citing 
+ideological differences. The dispute nearly eradicated piracy in the Horn of Africa for a 
+few months.  The UIC and Al-Shabab have made their presence and dislike for pirate 
+activities known in the region, and it might be possible to undermine the relationship 
+between the two groups, thereby degrading the ability of the pirates to conduct attacks.  
+
+
+--- Page 66 ---
+ 
+ 
+49
+In regions such as Eyl and Garowe, the absence of the threat of prosecution and 
+the accusations of the central authority’s participation in piracy suggest there are no legal 
+implications for their illegal actions. However, with the introduction of the violence and 
+the threat of violence by the UIC and Al-Shabab, potential pirates must either face the 
+violence threatened by the UIC or choose an alternative course of action removing them 
+from piratical action. According to Sztompka (1999), “to choose among alternative 
+courses of action we often have to resort to trust” (Sztompka, 1999, p. 13). The potential 
+pirates either have to trust they will be safe from the UICs violence or they must face the 
+additional uncertainty and risk involved with being a pirate. As Sztompka (1999), points 
+out, increasing the uncertainty and risk of a situation can force individuals to consider 
+other alternative courses of action when faced with an alternate risk profile (p. 38). 
+This alternative solution is not without its potential drawbacks. In fact, the 
+international community has sought to eliminate the UIC’s influence in the region, 
+fearing the proliferation of Islamic fundamentalism throughout the Horn of Africa. In 
+2006, under the premises of the Global War on Terror, the United States supported an 
+Ethiopian invasion into Somalia to oust the UIC.  However, it might be possible to 
+disrupt piracy by temporarily allowing the UIC to vie for power in certain regions in 
+Somalia. The power struggle would remove the pirates’ abilities to operate freely and 
+make their endeavors much more dangerous, possibly causing would be pirates to choose 
+an alternative career option in light of the increased risk profile. 
+4. 
+Instill Distrust within Local Pirate Networks 
+In September 1964, the United States Federal Bureau of Investigation (FBI) 
+embarked on a nationwide campaign to disrupt the activities of the Ku Klux Klan (KKK). 
+The program was initiated following the murders of three New York civil rights workers 
+in Mississippi in the summer of 1964. The brutal murders gained the attention of the 
+United States Department of Justice and FBI Director, J. Edgar Hoover, who directed the 
+formation of Operation White Hate Counter Intelligence Program (COINTELPRO). This 
+operation sought to “expose, disrupt, and otherwise neutralize the Ku Klux Klan and  
+ 
+
+
+--- Page 67 ---
+ 
+ 
+50
+specified other hate groups” (Davis, 1992, p. 76). Over a period of several years, 
+COINTELPRO was able to reduce the number of active Klansmen from 10,000 to an 
+estimated 4,300 (Davis, 1992). 
+To accomplish the objectives of Operation White Hate, the FBI developed a series 
+of campaigns to instill distrust within the Klan organization. Operating under strict 
+secrecy, the FBI slowly undermined the trust within the organization by turning members 
+against one another and discrediting Klan leadership. The FBI’s methodologies were 
+ultimately successful in breaking long-standing relationships between Klan members and 
+the leadership of the organization and undermining their reputation in southern 
+communities. 
+One of the methods utilized by the FBI was to mail postcards to members 
+suggesting that Klan leaders were getting rich off the dues paid by lower-ranking 
+members. The cards said, “Which Klan leaders are you spending your money on?” 
+(Davis, 1992, p. 78) This method sought to undermine the trust between Klan leadership 
+and subordinate members by suggesting that the dues were not going to support the local 
+klavern, but instead to support the lavish lifestyles of Klan leadership. The plan worked, 
+and soon “disruption and suspicion had been planted within the ranks…and the 
+attendance of younger members began to drop. The klavern was, in effect, neutralized” 
+(Davis, 1992).  
+A similar method might be effective in disrupting Somali pirate networks. The 
+anti-piracy coalition could covertly transmit signals to lower ranking members of pirate 
+networks that claim an unfair allocation of ransom funds or imply that one member 
+possesses a substantial amount of money. Signals such as these could create jealousy and 
+create infighting amongst the pirates themselves and with ordinary Somali citizens 
+interested in the promise of easy money. It may also create a power struggle, thus 
+ultimately degrading the command and control capacity of the network.  
+
+
+--- Page 68 ---
+ 
+ 
+51
+5. 
+Utilize Captured Pirate Suspects or Co-Conspirators to Create 
+Distrust 
+United Nations Security Council Resolutions 1846 and 1851 gave the anti-piracy 
+coalition increased leverage to deal with the piracy problem. The ability to pursue pirates 
+onto land or capture them at sea presents an opportunity to capture suspected pirates and 
+gain useful intelligence. In addition, the anti-piracy coalition might be able to insert 
+distrust into the networks, potentially causing degradation in their operational capacity. 
+The approach of turning suspected pirates or co-conspirators into informants or 
+suspected informants, sometimes referred to by the Federal Bureau of Investigation (FBI) 
+as the snitch-jacket approach, has been successful in transmitting disruptive signals in the 
+past (Davis, 1992). In both Operation White Hate and Operation Forae, members and 
+leaders of the target organization were lead to believe there were informers and spies 
+within their network. This created widespread panic and distrust, and caused the network 
+to expend vast amounts of resources attempting to find the leak. 
+Operation Forae was the brainchild of United States Special Operations Forces. 
+The forces had gained intelligence that the North Vietnamese were extremely worried 
+about “spy commandos and enemy agents that, in reality, did not exist” (Shultz, 2000p. 
+111). The North Vietnamese truly believed there was an ongoing conspiracy “aided and 
+abetted by enemy agents…running very deep and being extremely dangerous” (Shultz, 
+2000). To the contrary, at the time, the United States was not involved in a widespread 
+subversion plan in Northern Vietnam, but it did not take long for U.S. planners to exploit 
+the North’s fixation on a non-existent deception operation. 
+One of the most useful methods of Operation Forae was the widespread use of a 
+snitch-jacket operation code named Project Borden. Project Borden recruited NVA 
+prisoners of war as United States agents. The first step was to identify captured prisoners 
+of war (POWs) who the team thought would be good candidates to become double 
+agents. In reality, the team did not care whether the recruits would make good double 
+agents (Shultz, 2000). “It was fully expected and intended that many of the recruited 
+agents would reveal their assigned mission to the NVA of their own volition or under 
+
+
+--- Page 69 ---
+ 
+ 
+52
+interrogation” (Shultz, 2000, p. 114). The goal was to release the prisoners back into the 
+North and have them, as well as officials in the North, believe they were part of a large 
+double agent organization that was flourishing amongst the Northern ranks. The plan 
+worked exactly as intended and ultimately “diverted NVN military resources to counter 
+this penetration and started a witchhunt within the ranks of the NVA, resulting in the 
+harassment and alienation of NVA troops from their leader, strained NVN ideological 
+control and inducement of defection”(Shultz, 2000)(Shultz, 2000, p. 115).  
+The latitude given by UNSCR 1846 and 1851 discussed in Chapter III would 
+allow a similar type of action against Somali pirates. Anti-piracy forces have been 
+granted the power to halt piracy “by any means necessary” and the capture and release of 
+suspected pirates at sea is not outside the realm of possibility (United Nations, 2008b).   
+6. 
+Increase Pirate Uncertainty Using Decoy Ships 
+Sztompka (1999) says contemporary societies must rely on the “growing 
+anonymity and impersonality of those on whose actions our existence and well-being 
+depend. The managers of institutions and organizations, operators of technological 
+systems…and provides of services are most often unknown to us. We usually have no 
+possibility of influencing or monitoring their activities…and there is no means of 
+bridging this anonymity gap, but resorting to trust” (p. 13). In the case of Somali pirates 
+and their potential victims, the anonymity gap is extremely important. The pirates trust in 
+the fact the vessel they are targeting is a commercial vessel, carrying, for all intensive 
+purposes, unarmed professional mariners who are unlikely to resist a pirate boarding 
+attempt. They trust that the decision makers for international shipping companies do not 
+arm their sailors and to date each vessel they have attacked has been free of military or 
+contract personnel capable of fighting back.  
+To exploit or undermine this trust, Coalition Maritime Forces, in conjunction with 
+the Somali Transitional Federal Government (TFG), could place combat capable forces 
+onboard a vessel that meets the profile of those typically targeted by pirates. This vessel 
+would be slow moving, have a low freeboard, and operate far from maritime anti-piracy 
+patrols in warning zones as designated by the International Maritime Bureau (IMB). The 
+
+
+--- Page 70 ---
+ 
+ 
+53
+vessel would appear just as any other commercial merchant ship operating in the region. 
+It could make several passes through the danger zone or if necessary anchor to attract the 
+attention of pirates. In addition, false communications regarding the route, crew, and 
+cargo could be fed into the pirates’ global information sharing network highlighted in 
+Chapter II. 
+The crew of the vessel would be comprised of highly trained, heavily armed 
+military or contracted personnel capable of repelling an attempt to board by the pirates. 
+They would possess the element of surprise and the tactical advantage of maintaining the 
+high ground compared to the pirate skiffs. If and when the pirates attacked, they would be 
+met with heavy resistance and face the possibility of kill or capture.  
+This type of action, when carried out a number of times, would increase the 
+pirates’ uncertainty with respect to their target vessels capability and more importantly 
+instill a sense of distrust regarding the true intentions of commercial vessels transiting 
+through the area. Pirates could become suspicious of the intentions and capabilities of a 
+potential target and may be reluctant to carry out further attacks. The anonymity gap, 
+proposed by Sztompka, would be exploited in order to disrupt the capabilities of the 
+pirate network. 
+D. 
+CONCLUSION 
+It is clear that trust and cooperation are essential to Somali pirates’ operational 
+success. Without trust or with the injection of distrust, “cooperation will fail among free 
+agents” and the network would suffer severe degradation to its capacities to organize and 
+operate (Sztompka, 1999, p. 62) From the analysis in Chapters II and III and successful 
+influence operations in the past, it is clear that the organizational attributes of Somali 
+pirate networks leave various channels open for exploitation. Anti-piracy coalitions and 
+the Somali TFG should, by all means, strive to disrupt pirate organizations’ abilities to 
+operate by using operations that undermine trust and promote distrust.  
+
+
+--- Page 71 ---
+ 
+ 
+54
+THIS PAGE INTENTIONALLY LEFT BLANK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 72 ---
+ 
+ 
+55
+V. 
+CONCLUSION 
+Piracy in the Gulf of Aden and Indian Ocean continues to flourish despite the 
+multi-national military effort to curtail it. The defensive strategy as adopted by the 
+current anti-piracy campaign has failed to treat the root causes of the problem and only 
+attempts to alleviate a single symptom. In order to successfully suppress piracy, actions 
+must be taken to either bring stability and order to Somalia or disrupt the network on land 
+where it originates. The former is extremely unlikely due to the turbulent and complex 
+political situation that has existed in Somalia since the early 1990s. A much more viable 
+solution would involve either attacking the pirates’ land sanctuaries or disrupting the 
+organizational and operational capabilities of pirate networks. However, the international 
+community has been hesitant to conduct kinetic actions within Somalia’s borders, 
+therefore leaving disruption as a more viable solution. One means of disruption would be 
+to undermine the trust required for pirate networks to operate, thus degrading their ability 
+to operate. 
+The historical analysis of Somalia’s chaotic past suggests the establishment of a 
+stable government is unlikely in the short term. Without a central government and some 
+form of regional security, pirate networks will continue to exploit the political ills of 
+Somalia and threaten global trade. International shipping costs will continue to rise due to 
+increased insurance premiums and longer routes to avoid potential hazard areas; the 
+violence and instability brought on by piracy will continue to destabilize the region; the 
+environmental dangers and potential linkage to terrorist organizations will remain a 
+threat; and most importantly the lives of those aboard the hijacked vessels will continue 
+to be threatened.  
+The current anti-piracy efforts undertaken by the international community have 
+failed to curtail piracy, suggesting a naval solution may not be the best solution to 
+alleviate the problem. The pirates have altered their tactics in response to the naval 
+presence and have continued to terrorize vessels on the high seas. In addition, a naval 
+solution does not address piracy at its origin – inside of Somalia. Therefore, alternative 
+
+
+--- Page 73 ---
+ 
+ 
+56
+solutions should be considered to lessen the woes of piracy. A possible solution might be 
+to utilize trust and influence operations to disrupt or degrade the organizational and 
+operational capacity of the pirate networks.  
+Similar operations have been successful in the past at disrupting criminal 
+enterprises. The risks and uncertainty associated with these types of enterprises make 
+trust an essential element in the framework of the organizations. Without trust, they 
+would be unable to achieve the cooperation necessary for organizational success. By 
+purposefully instilling distrust, the international anti-piracy coalition might be able to 
+disrupt or degrade the pirates’ operational capacities, thereby lessening the effectiveness 
+of the pirate networks and possibly making ship transits safer. 
+Trust and influence operations in Somalia do, however, possess a number of 
+drawbacks, which may limit their effectiveness. For one, the analysis of Somalia pointed 
+out the importance of clans in Somali society. It may prove difficult to undermine the 
+bonds of trust and loyalty that have been strengthened through generations of association. 
+David Ronfeldt, a senior social scientist at the RAND Corporation, expressed his doubts 
+in infiltrating this type of network, “You’re talking about what amounts to a clan or a 
+tribe or brotherhood of blood and spilled blood. That is really tough to crack. Trying to 
+infiltrate it – we’re talking years” (Garreau, 2001, p. 4). The international community 
+does not possess the luxury of waiting years for a potential solution to take effect. A swift 
+and immediate solution is necessary to prevent the worsening of the implications from 
+piracy. In addition, intelligence regarding the structure and makeup of pirate 
+organizations is limited, thus making the network analysis necessary for disruption 
+extremely difficult. In order to move forward with disruption techniques intended to 
+instill distrust a more comprehensive analysis of pirate networks should be undertaken.  
+Despite the limitations, trust and influence techniques may prove to be a useful 
+tool in the fight against Somali piracy. As previously stated, trust is an essential element 
+to the organizational successes of Somali pirates. Without it, there would be no 
+cooperation, thus severely limiting the pirates’ abilities to act. Kathleen Carley, a  
+ 
+ 
+
+
+--- Page 74 ---
+ 
+ 
+57
+professor at Carnegie Mellon University suggests, “there’s no reason organizational 
+glitches, screw-ups, jealousies and distrust that slow and degrade performance can’t be 
+intentionally introduced” (Garreau, 2001, p. 2).  
+From the continuation of pirate attacks, it is clear the current efforts have not been 
+successful in solving the problem and a different approach is necessary. An offensive 
+strategy utilizing the techniques to purposefully inject distrust into pirate networks as 
+discussed in Chapter IV may prove useful in the fight against Somali piracy. These and 
+similar techniques will mitigate some the shortcomings of the current approach by 
+addressing the problem at its origin inside of Somali rather than addressing the symptoms 
+of the problem at sea. 
+ 
+
+
+--- Page 75 ---
+ 
+ 
+58
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 76 ---
+ 
+ 
+59
+LIST OF REFERENCES 
+"MV Sirius Star." Retrieved 4/10/2009, from 
+http://en.wikipedia.org/wiki/MV_Sirius_Star  
+Al-Mutairi Abdulaziz. (2009, April 9). Puntland: The Shame on Somali Identity. 
+Somaliland Press, Retrieved 4/10/2009 from 
+http://somalilandpress.com/4157/puntland-the-shame-on-somali-identity.html  
+Al-Mutairi, A. (2009a, April 21, 2009). Pirates, Al-Qaeda and Arabs Lifting Arms 
+Embargo: Road to Advance Terror in Somalia. Somaliland Press.  
+Al-Mutairi, A. (2009b, March 3, 2009). Puntland's Dirty Money to Sabotage Somaliland 
+Presidential Election. Somaliland Press.  
+Anonymous. (2009, March). Maritime Somali Piracy is self-defense - Ghaddafi. African 
+Business, 351, 9.  
+Associated Press. (2009a). U.S. Checking for Terror Ties in Pirate Hijacking. Retrieved 
+4/10/2009, from http://www.foxnews.com/story/0,2933,513958,00.html  
+Associated Press. (2009b). U.S. Warship, Hostage Negotiators Join Standoff as Pirates' 
+Options Dwindle. Retrieved 4/9/2009, from 
+http://www.foxnews.com/story/0,2933,513536,00.html  
+BBC News. (2008). Africa Pirates Gained $150m this Year.  
+Chalk, P. (2008). The Maritime Dimension of International Security: Terrorism, Piracy, 
+and Challenges for the United States. Santa Monica, CA: RAND Corp.  
+Davis, J. (1992). Spying On America. The FBI's Domestic Counterintelligence Program. 
+New York, NY: Praeger.  
+EU Naval Operation Against Piracy (2008).  
+Federal Bureau of Investigation. (2008). Federal Bureau of Investigation. Organized 
+Crime Glossary. Retrieved 5/27/2009, from 
+http://www.fbi.gov/hq/cid/orgcrime/glossary.htm  
+Garreau, J. (2001, Disconnect the Dots. Maybe We Can't Cut Off Terror's Head, but We 
+Can Take Out Its Nodes. Washington Post, pp. C01.  
+Glendinning, L., & Rice, X. (2008, November 18, 2008). Pirates Anchor Hijacked 
+Supertanker Off Somali Coast. The Guardian, pp. March 2, 2009.  
+Hansen, S. J. (2006). Pirates of the Horn. Beacon, 12.  
+
+
+--- Page 77 ---
+ 
+ 
+60
+Hanson, S. (2009). Combating Maritime Piracy. Retrieved 4/10/2009, from 
+http://www.cfr.org/publication/18376/combating_maritime_piracy.html  
+Harper, M. (2008). Life in Somalia's Pirate Town. BBC News, Retrieved 4/10/2009 from 
+http://news.bbc.co.uk/2/hi/africa/7623329.stm  
+Hassan, M. O., & Kennedy, E. (2008). Somali Pirates backed by International Network. 
+Retrieved 5/27/2009, from http://macedoniaonline.eu/content/view/4758/53/  
+Hunter, R. (2008). Somali Pirates Living the High Life. BBC News, Retrieved 4/10/2009 
+from http://news.bbc.co.uk/2/hi/africa/7650415.stm  
+IMB reports unprecedented rise in maritime hijackings. Retrieved 4/20/2009, from 
+http://icc-ccs.org/index.php?option=com_content&view=article&id=332:imb-
+reports-unprecedented-rise-in-maritime-hijackings&catid=60:news&Itemid=51  
+Ismail, A. (2009). Somalia: Piracy Grows to Record Levels. Retrieved 4/20/2009, from 
+http://allafrica.com/stories/200901160618.html  
+Lennox, P. (2008). Contemporary Piracy off the Horn of Africa. Canada: Canadian 
+Defence & Foreign Affairs Institute.  
+Lindner, E. G. (2001). The Psychology of Humiliation: Somalia, Rwanda, Burundi, and 
+Hitler's Germany. (Doctoral, University of Oslo). Retrieved 4/10/2009, from 
+http://www.humiliationstudies.org/documents/evelin/DissertationPsychology.pdf  
+Media Maps. (1992). Somali Ethnic Groups Retrieved4/10/2009, from 
+http://media.maps.com/magellan/Images/SOMCLA-W2.gif  
+Middleton, R. (2008). Piracy in Somalia Threatening global trade, feeding local wars 
+(Briefing Paper No. AFP BP 08/02). UK: Chatham House. Retrieved 4/10/2009, 
+from http://www.chathamhouse.org.uk/files/12203_1008piracysomalia.pdf  
+Moller, B. (2009a). Piracy off the Coast of Somalia. Copenhagen, Denmark: Danish 
+Institute for International Studies. Retrieved 4/10/2009, from www.diis.dk/bmo  
+Moller, B. (2009b). The Somali Conflict. The Role of External Actors. No. 2009:03). 
+Copenhagen, Denmark: Danish Institute for International Studies. Retrieved 
+4/10/2009, from www.diis.dk  
+Murphy, M. (2007). Suppression of Piracy and Maritime Terrorism. A Suitable Role for a 
+Navy? Naval War College Review, 60(3), 22. Retrieved 4/10/2009, from 
+http://www.nwc.navy.mil/press/review/PressReviewPDF.aspx?q=65  
+Murphy, M. (2009). Somali Piracy: Not Just a Naval Problem. Center for Strategic and 
+Budgetary Assessments Backgrounder, Countering Piracy Off The Horn Of 
+Africa: Partnership and Action Plan, (2008).  
+
+
+--- Page 78 ---
+ 
+ 
+61
+Nicoll, A., & Johnstone, S. (2009). Combating Piracy off Somalia. Strategic Comments, 
+15(1). 
+Ploch, L., Blanchard, C., O'Rourke, R., Mason, C., & King, R. (2009). Piracy off the 
+Horn of Africa No. R40528)Congressional Research Service.  
+Powell, B., Ford, R., & Nowrasteh, A. (2006). Somalia After State Collapse: Chaos or 
+Improvement? Unpublished manuscript.  
+Shultz, R. (2000). The Secret War Against Hanoi. The Untold Story of Spies, Saboteurs, 
+and Covert Warriors in North Vietnam. Harper Perennial.  
+Somali Pirates Vow to Hunt Down, Kill Americans in Revenge. (2009). Retrieved 
+4/20/2009, from http://www.foxnews.com/story/0,2933,516235,00.html  
+STRATFOR. (2008). Al Qaeda and Al Shabab. Retrieved 4/10/2009, from 
+http://www.stratfor.com/analysis/somalia_al_qaeda_and_al_shabab  
+Stuhldreher, K. (2008). To Turn the Tide on Piracy in Somalia, Bring Justice to its 
+Fisheries. Retrieved 5/18/2009,  from 
+http://www.csmonitor.com/2008/1120/p09s01-coop.html  
+Sztompka, P. (1999). Trust: A Sociological Theory. Cambridge, UK; New York, NY: 
+Cambridge University Press.  
+United Nations Security Council Resolution 1846, SC/9514, 6026Cong. (2008a).  
+United Nations Security Council Resolution 1851, SC/9541, 6046Cong. (2008b).  
+United Nations World Food Programme. Fighting Hunger Worldwide: Somalia. 
+Retrieved 5/27/2009, from http://www.wfp.org/node/3584  
+Wadhams, N. (2009). Why the Pirates Are Winning the Battle of the Seas. Retrieved 
+4/10/2009, from http://www.time.com/time/printout/0,8816,1890350,00.html#  
+ 
+  
+
+
+--- Page 79 ---
+ 
+ 
+62
+THIS PAGE INTENTIONALLY LEFT BLANK 
+
+
+--- Page 80 ---
+ 
+ 
+63
+INITIAL DISTRIBUTION LIST 
+1. 
+Defense Technical Information Center 
+Ft. Belvoir, Virginia  
+ 
+2. 
+Dudley Knox Library 
+Naval Postgraduate School 
+Monterey, California  
+ 
+3. 
+Dr. Dorothy Denning 
+Naval Postgraduate School 
+Monterey, California 
+ 
+4. 
+Steven Iatrou 
+Naval Postgraduate School 
+Monterey, California 
+ 
+ 
+ 
+ 
